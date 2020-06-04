@@ -1,0 +1,41 @@
+!------------------------------------------------------
+! Modulo Principal
+!------------------------------------------------------
+!Modulo de Gramatica
+
+!************************************************************************************
+!			NUEVOS VERBOS
+!************************************************************************************
+[ XyzzySub; JugadorA (inicio, 1); cain.actos = 0; <<Mirar>>; ];
+
+[escribirSub; 
+	if ((cain in inicio) && (musa hasnt general))
+		 {give musa general; 
+		"Escribes otro ininteligible poema, que obtiene la aprovación de tu musa. 
+		Sonries satisfecho y melancólico a la vez, en una extraña sensación que nunca 
+		logras descifrar. Hace mucho, mucho tiempo que permaneces en la oscuridad 
+		junto a tu amada musa.";}
+	         else "^Ahora no hace falta escribir nada.";
+];
+
+[ayudaSub;
+	"Para jugar a La Musa.^
+      Los comandos para avanzar en el juego son: MIRAR, EXAMINAR, COGER, COMER, ATACAR, DORMIR...  
+      entre otros. Para comunicarte con otros personajes pon DECIR HOLA A personaje.^
+      Para escribir en el libro pon ESCRIBIR palabra o simplemente ESCRIBIR si no sabes que palabra poner.^
+      Teclea FIN para salir del juego.";
+];
+
+
+
+Verb 'Xyzzy'  *         -> Xyzzy;  
+
+
+Verb "ayuda" "pistas" "pista" "instrucciones" "comandos" "help" "?" "solucion"
+	* 		->ayuda;
+
+
+Verb "escribir" "escribe" "escribo"
+	*noun		->escribir
+	*'en' noun	->escribir
+	*'el' noun	->escribir;

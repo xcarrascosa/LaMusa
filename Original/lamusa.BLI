@@ -1,0 +1,15 @@
+! Blorb Resource Definitions File
+! Generated automatically by bres.
+! Do not edit
+! Include this file in your inform source with: Include "lamusa.bli"
+
+Constant negro 3;	!Blorb Pict:negro.jpg
+Constant lamusa 4;	!Blorb Pict:lamusa.jpg
+Constant lamusa2 5;	!Blorb Pict:lamusa2.jpg
+Constant acto1 6;	!Blorb Pict:acto1.jpg
+Constant acto2 7;	!Blorb Pict:acto2.jpg
+Constant acto3 8;	!Blorb Pict:acto3.jpg
+Constant acto4 9;	!Blorb Pict:acto4.jpg
+Constant acto5 10;	!Blorb Pict:acto5.jpg
+Constant acto6 11;	!Blorb Pict:acto6.jpg
+Constant acto7 12;	!Blorb Pict:acto7.jpg

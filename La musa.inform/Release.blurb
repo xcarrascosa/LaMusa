@@ -1,0 +1,57 @@
+! Blurb file created by Inform build 6M62
+
+status "C:\Program Files (x86)\Inform 7\Internal\Miscellany\CblorbModel.html" "C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Build\StatusCblorb.html"
+
+
+! Identification
+
+project folder "C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform"
+release to "C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.materials\Release"
+
+! Blorb instructions
+
+storyfile leafname "La musa.gblorb"
+storyfile "C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Build\output.ulx" include
+ifiction "C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Metadata.iFiction" include
+cover "C:\Program Files (x86)\Inform 7\Internal\Miscellany\Cover.jpg"
+picture 1 "C:\Program Files (x86)\Inform 7\Internal\Miscellany\Cover.jpg"
+release file "C:\Program Files (x86)\Inform 7\Internal\Miscellany\Cover.jpg"
+release file "C:\Program Files (x86)\Inform 7\Internal\Miscellany\Small Cover.jpg"
+
+! Placeholder variables
+
+placeholder [IFID] = "CC598049-E316-43E4-B7AC-39698419D4FF"
+placeholder [RELEASE] = "2"
+placeholder [YEAR] = "2020"
+placeholder [TITLE] = "La musa"
+placeholder [AUTHOR] = "Xavier Carrascosa"
+placeholder [BLURB] = "El pecado acecha a la puerta; y aunque viene por ti, tú puedes dominarlo. Confusa, que sólo tú eres mi musa. ¿Serás capaz de obtener suficiente inspiración de tu musa como para resultar vencedor de la aventura?"
+
+! Other material to release
+
+source public
+
+! Website instructions
+
+placeholder [ENCODEDSTORYFILE] = "La musa.gblorb.js"
+template path "C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.materials\Templates"
+template path "C:\Users\xavie\Documents\Inform\Templates"
+template path "C:\Program Files (x86)\Inform 7\Internal\Templates"
+placeholder [INTERPRETERSCRIPTS] = " "
+interpreter "Quixe" "g"
+base64 "C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Build\output.ulx" to "C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.materials\Release\interpreter\La musa.gblorb.js"
+
+! Website instructions
+
+template path "C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.materials\Templates"
+template path "C:\Users\xavie\Documents\Inform\Templates"
+template path "C:\Program Files (x86)\Inform 7\Internal\Templates"
+css
+website "Standard"
+status instruction ||&nbsp;<a href="source:story.ni#line1045"><img border=0 src=inform:/doc_images/Reveal.png></a>||
+status alternative ||Using 'Release along with cover art', to provide something more distinctive than the default artwork above&nbsp;<a href=inform:/doc403.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with a file of "Such-and-Such" called "whatever.pdf"', perhaps to add a manual, or a welcoming note&nbsp;<a href=inform:/doc401.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with a solution'&nbsp;<a href=inform:/doc411.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with the library card'&nbsp;<a href=inform:/doc412.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with the introductory booklet'&nbsp;<a href=inform:/doc404.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with the introductory postcard'&nbsp;<a href=inform:/doc404.html><img border=0 src=inform:/doc_images/help.png></a>||
