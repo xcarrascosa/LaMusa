@@ -4,6 +4,41 @@
     <dict>
         <key>Graphics</key>
         <dict>
+            <key>1</key>
+            <string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.materials\Cover.jpg</string>
+            <key>3</key>
+            <string>Figures\portada.jpg</string>
+            <key>4</key>
+            <string>Figures\musa-bn.jpg</string>
+            <key>5</key>
+            <string>Figures\musa-esperando-bn.jpg</string>
+            <key>6</key>
+            <string>Figures\musa-riendo.jpg</string>
+            <key>7</key>
+            <string>Figures\musa-vigilante-bn.jpg</string>
+            <key>8</key>
+            <string>Figures\musa-llorando-bn.jpg</string>
+            <key>9</key>
+            <string>Figures\pastor-bn.jpg</string>
+            <key>10</key>
+            <string>Figures\soldado-bn.jpg</string>
+            <key>11</key>
+            <string>Figures\reo-bn.jpg</string>
+            <key>12</key>
+            <string>Figures\doncella-bn.jpg</string>
+            <key>13</key>
+            <string>Figures\durmiente-bn.jpg</string>
+            <key>14</key>
+            <string>Figures\cultista-bn.jpg</string>
+        </dict>
+        <key>Sounds</key>
+        <dict>
+            <key>15</key>
+            <string>Sounds\Unseen-Horrors.ogg</string>
+            <key>16</key>
+            <string>Sounds\horror-atmosphere-background.ogg</string>
+            <key>17</key>
+            <string>Sounds\Ghostrifter-Official-Our-Demise.ogg</string>
         </dict>
     </dict>
 </plist>

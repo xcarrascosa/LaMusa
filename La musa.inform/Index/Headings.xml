@@ -1,0 +1,2496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+    <key>Application Version</key><string>6M62</string>
+    <key>0</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>1</integer>
+        <key>Title</key><string>"La musa" by Xavier Carrascosa (in spanish)</string>
+        <key>Level</key><integer>0</integer>
+        <key>Indentation</key><integer>0</integer>
+    </dict>
+    <key>1</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>42</integer>
+        <key>Title</key><string>Part 1 - Iniciando extensiones y reglas varias</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>2</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>44</integer>
+        <key>Title</key><string>Section 1.1 - Extensiones</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>3</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>67</integer>
+        <key>Title</key><string>Section 1.2 - Reglas varias</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>4</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>87</integer>
+        <key>Title</key><string>Section 1.3 - Iniciando el juego</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>5</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>106</integer>
+        <key>Title</key><string>Section 1.4 - Ampliación de verbos y vocabulario</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>6</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>233</integer>
+        <key>Title</key><string>Section 1.5 - Imagenes y sonidos</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>7</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>287</integer>
+        <key>Title</key><string>Part 2 - En la oscuridad</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>8</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>298</integer>
+        <key>Title</key><string>Chapter 1 - La musa</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>9</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>307</integer>
+        <key>Title</key><string>Section 1 - Examinar la musa</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>10</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>359</integer>
+        <key>Title</key><string>Section 2 - Atacar a la musa</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>11</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>379</integer>
+        <key>Title</key><string>Section 3 - Hablar con la musa</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>12</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>385</integer>
+        <key>Title</key><string>Section 4 - Otras acciones con la musa</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>13</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>406</integer>
+        <key>Title</key><string>Chapter 2 - El libro del destino</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>14</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>413</integer>
+        <key>Title</key><string>Section 1 - El contador de pecados</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>15</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>420</integer>
+        <key>Title</key><string>Section 2 - Escribir en el libro</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>16</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>508</integer>
+        <key>Title</key><string>Section 3 - Otras acciones con el libro</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>17</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>517</integer>
+        <key>Title</key><string>Part 3 - Siete actos</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>18</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>525</integer>
+        <key>Title</key><string>Chapter 1 - Primer acto</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>19</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>529</integer>
+        <key>Title</key><string>Section 1 - Acciones varias</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>20</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>550</integer>
+        <key>Title</key><string>Section 2 - Descansar</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>21</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>571</integer>
+        <key>Title</key><string>Section 3 - El pastor</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>22</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>600</integer>
+        <key>Title</key><string>Chapter 2 - Segundo acto</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>23</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>618</integer>
+        <key>Title</key><string>Section 1 - Acciones varias</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>24</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>627</integer>
+        <key>Title</key><string>Section 2 - El banquete</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>25</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>649</integer>
+        <key>Title</key><string>Section 3 - El ajusticiado</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>26</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>681</integer>
+        <key>Title</key><string>Chapter 3 - Tercer acto</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>27</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>689</integer>
+        <key>Title</key><string>Section 1 - Acciones varias</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>28</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>698</integer>
+        <key>Title</key><string>Section 2 - El soldado</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>29</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>773</integer>
+        <key>Title</key><string>Chapter 4 - Cuarto acto</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>30</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>788</integer>
+        <key>Title</key><string>Section 1 - Acciones varias</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>31</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>797</integer>
+        <key>Title</key><string>Section 2 - La doncella</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>32</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>866</integer>
+        <key>Title</key><string>Chapter 5 - Quinto acto</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>33</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>887</integer>
+        <key>Title</key><string>Section 1 - Acciones varias</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>34</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>908</integer>
+        <key>Title</key><string>Section 2 - El mercader</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>35</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>919</integer>
+        <key>Title</key><string>Section 3 - Matar y robar</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>36</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>960</integer>
+        <key>Title</key><string>Chapter 6 - Sexto acto</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>37</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>969</integer>
+        <key>Title</key><string>Section 1 - Acciones varias</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>38</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>996</integer>
+        <key>Title</key><string>Section 2 - El altar</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>39</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>1034</integer>
+        <key>Title</key><string>Section 3 - El ritual</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>40</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>1074</integer>
+        <key>Title</key><string>Chapter 7 - Séptimo acto</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>41</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>1082</integer>
+        <key>Title</key><string>Section 1 - Acciones varias</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>42</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>1089</integer>
+        <key>Title</key><string>Section 3 - El pastor</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>43</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>1115</integer>
+        <key>Title</key><string>Section 3 - Venganza</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>44</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>1147</integer>
+        <key>Title</key><string>Part 4 - Publicando el juego</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>45</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>1149</integer>
+        <key>Title</key><string>Chapter 1 - Ayuda</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>46</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Projects\LaMusa\La musa.inform\Source\story.ni</string>
+        <key>Line</key><integer>1200</integer>
+        <key>Title</key><string>Chapter 2 - Release</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>47</key><dict>
+        <key>Line</key><integer>1</integer>
+        <key>Title</key><string>Invented sentences</string>
+        <key>Level</key><integer>0</integer>
+        <key>Indentation</key><integer>0</integer>
+    </dict>
+    <key>48</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>1</integer>
+        <key>Title</key><string>Version 3/120430 of the Standard Rules by Graham Nelson begins here</string>
+        <key>Level</key><integer>0</integer>
+        <key>Indentation</key><integer>0</integer>
+    </dict>
+    <key>49</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>347</integer>
+        <key>Title</key><string>Part SR1 - The Physical World Model</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>50</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>349</integer>
+        <key>Title</key><string>Section SR1/0 - Language</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>51</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>410</integer>
+        <key>Title</key><string>Section SR1/1 - Primitive Kinds</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>52</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>435</integer>
+        <key>Title</key><string>Section SR1/2 - Rooms</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>53</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>465</integer>
+        <key>Title</key><string>Section SR1/3 - Things</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>54</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>492</integer>
+        <key>Title</key><string>Section SR1/4 - Directions</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>55</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>543</integer>
+        <key>Title</key><string>Section SR1/5 - Doors</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>56</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>561</integer>
+        <key>Title</key><string>Section SR1/6 - Containers</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>57</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>575</integer>
+        <key>Title</key><string>Section SR1/7 - Supporters</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>58</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>590</integer>
+        <key>Title</key><string>Section SR1/8 - Openability</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>59</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>598</integer>
+        <key>Title</key><string>Section SR1/9 - Lockability</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>60</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>617</integer>
+        <key>Title</key><string>Section SR1/10 - Backdrops</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>61</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>627</integer>
+        <key>Title</key><string>Section SR1/11 - People</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>62</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>657</integer>
+        <key>Title</key><string>Section SR1/12 - Animals, men and women</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>63</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>675</integer>
+        <key>Title</key><string>Section SR1/13 - Devices</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>64</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>685</integer>
+        <key>Title</key><string>Section SR1/14 - Vehicles</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>65</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>698</integer>
+        <key>Title</key><string>Section SR1/15 - Player's holdall</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>66</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>713</integer>
+        <key>Title</key><string>Section SR1/16 - Inform 6 equivalents</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>67</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>752</integer>
+        <key>Title</key><string>Part SR2 - Variables and Rulebooks</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>68</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>754</integer>
+        <key>Title</key><string>Section SR2/1 - Situation</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>69</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>774</integer>
+        <key>Title</key><string>Section SR2/2 - Current action</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>70</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>789</integer>
+        <key>Title</key><string>Section SR2/3 - Used when ruling on accessibility</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>71</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>801</integer>
+        <key>Title</key><string>Section SR2/4 - Used when understanding typed commands</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>72</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>818</integer>
+        <key>Title</key><string>Section SR2/5 - Presentation on screen</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>73</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>832</integer>
+        <key>Title</key><string>Section SR2/6 - Language generation</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>74</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>840</integer>
+        <key>Title</key><string>Section SR2/6a - Unindexed Standard Rules variables - Unindexed</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>75</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>852</integer>
+        <key>Title</key><string>Section SR2/6b - Unindexed Standard Rules variables - Unindexed (for figures language element only)</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>76</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>856</integer>
+        <key>Title</key><string>Section SR2/6c - Unindexed Standard Rules variables - Unindexed</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>77</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>876</integer>
+        <key>Title</key><string>Section SR2/7 - The Standard Rulebooks</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>78</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>944</integer>
+        <key>Title</key><string>Section SR2/8 - The Standard Rules</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>79</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>1032</integer>
+        <key>Title</key><string>Section SR2/9 - The Entire Game scene</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>80</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>1038</integer>
+        <key>Title</key><string>Section SR2/10 - Action processing</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>81</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>1127</integer>
+        <key>Title</key><string>Section SR2/11 - Accessibility</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>82</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>1160</integer>
+        <key>Title</key><string>Section SR2/12 - Adjectival definitions</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>83</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>1234</integer>
+        <key>Title</key><string>Section SR2/12a - Adjectival definitions (for Glulx only)</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>84</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>1244</integer>
+        <key>Title</key><string>Section SR2/13 - Scene descriptions</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>85</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>1251</integer>
+        <key>Title</key><string>Section SR2/14 - Command parser errors</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>86</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>1399</integer>
+        <key>Title</key><string>Part SR3 - Activities</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>87</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>1401</integer>
+        <key>Title</key><string>Section SR3/1 - Definitions</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>88</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>1543</integer>
+        <key>Title</key><string>Section SR3/2 - Final Question</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>89</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>1580</integer>
+        <key>Title</key><string>Section SR3/3 - Final question options</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>90</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>1590</integer>
+        <key>Title</key><string>Section SR3/4 - Locale descriptions - Unindexed</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>91</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>1807</integer>
+        <key>Title</key><string>Part SR4 - Actions</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>92</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>1809</integer>
+        <key>Title</key><string>Section SR4/1 - Verbs needed for adaptive text</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>93</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>1825</integer>
+        <key>Title</key><string>Section SR4/2 - Standard actions concerning the actor's possessions</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>94</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>2260</integer>
+        <key>Title</key><string>Section SR4/3 - Standard actions which move the actor</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>95</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>2661</integer>
+        <key>Title</key><string>Section SR4/4 - Standard actions concerning the actor's vision</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>96</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>2958</integer>
+        <key>Title</key><string>Section SR4/5 - Standard actions which change the state of things</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>97</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>3356</integer>
+        <key>Title</key><string>Section SR4/6 - Standard actions concerning other people</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>98</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>3673</integer>
+        <key>Title</key><string>Section SR4/7 - Standard actions which are checked but then do nothing unless rules intervene</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>99</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>3953</integer>
+        <key>Title</key><string>Section SR4/8 - Standard actions which always do nothing unless rules intervene</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>100</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>4274</integer>
+        <key>Title</key><string>Section SR4/9 - Standard actions which happen out of world</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>101</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>4438</integer>
+        <key>Title</key><string>Section SR4/10 - Grammar</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>102</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>4662</integer>
+        <key>Title</key><string>Part SR5 - Phrasebook</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>103</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>4664</integer>
+        <key>Title</key><string>Section SR5/1/1 - Saying - Values</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>104</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>4680</integer>
+        <key>Title</key><string>Section SR5/1/2 - Saying - Names with articles</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>105</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>4701</integer>
+        <key>Title</key><string>Section SR5/1/3 - Saying - Say if and otherwise</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>106</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>4736</integer>
+        <key>Title</key><string>Section SR5/1/4 - Saying - Say one of</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>107</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>4779</integer>
+        <key>Title</key><string>Section SR5/1/5 - Saying - Paragraph control</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>108</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>4805</integer>
+        <key>Title</key><string>Section SR5/1/6 - Saying - Special characters</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>109</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>4820</integer>
+        <key>Title</key><string>Section SR5/1/7 - Saying - Fonts and visual effects</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>110</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>4841</integer>
+        <key>Title</key><string>Section SR5/1/8 - Saying - Some built-in texts</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>111</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>4856</integer>
+        <key>Title</key><string>Section SR5/1/9 - Saying - Saying lists of things</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>112</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>4963</integer>
+        <key>Title</key><string>Section SR5/1/10 - Saying - Group in and omit from lists</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>113</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>4990</integer>
+        <key>Title</key><string>Section SR5/1/11 - Saying - Lists of values</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>114</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>5002</integer>
+        <key>Title</key><string>Section SR5/1/12 - Saying - Filtering contents - Unindexed</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>115</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>5009</integer>
+        <key>Title</key><string>Section SR5/1/13 - Saying - Responses</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>116</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>5015</integer>
+        <key>Title</key><string>Section SR5/2/1 - Values - Making conditions true</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>117</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>5021</integer>
+        <key>Title</key><string>Section SR5/2/2 - Values - Giving values temporary names</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>118</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>5078</integer>
+        <key>Title</key><string>Section SR5/2/4 - Values - Arithmetic</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>119</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>5139</integer>
+        <key>Title</key><string>Section SR5/2/4a - Values - Real Arithmetic (for Glulx only)</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>120</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>5201</integer>
+        <key>Title</key><string>Section SR5/2/4a - Values - Trigonometry (for Glulx only)</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>121</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>5232</integer>
+        <key>Title</key><string>Section SR5/2/4a - Values - Hyperbolic functions (for Glulx only)</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>122</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>5262</integer>
+        <key>Title</key><string>Section SR5/2/5 - Values - Enumerations</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>123</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>5280</integer>
+        <key>Title</key><string>Section SR5/2/6 - Values - Truth states</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>124</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>5286</integer>
+        <key>Title</key><string>Section SR5/2/7 - Values - Randomness</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>125</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>5310</integer>
+        <key>Title</key><string>Section SR5/2/8 - Values - Tables</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>126</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>5365</integer>
+        <key>Title</key><string>Section SR5/2/9 - Values - Sorting tables</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>127</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>5377</integer>
+        <key>Title</key><string>Section SR5/2/10 - Values - Breaking down text</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>128</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>5421</integer>
+        <key>Title</key><string>Section SR5/2/11 - Values - Matching text</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>129</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>5455</integer>
+        <key>Title</key><string>Section SR5/2/12 - Values - Replacing text</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>130</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>5499</integer>
+        <key>Title</key><string>Section SR5/2/13 - Values - Casing of text</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>131</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>5520</integer>
+        <key>Title</key><string>Section SR5/2/14 - Values - Adaptive text</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>132</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>5566</integer>
+        <key>Title</key><string>Section SR5/2/15 - Values - Lists</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>133</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>5618</integer>
+        <key>Title</key><string>Section SR5/2/16 - Values - Length of lists</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>134</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>5639</integer>
+        <key>Title</key><string>Section SR5/2/17 - Values - Reversing and rotating lists</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>135</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>5651</integer>
+        <key>Title</key><string>Section SR5/2/18 - Values - Sorting lists</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>136</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>5669</integer>
+        <key>Title</key><string>Section SR5/2/19 - Values - Relations</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>137</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>5739</integer>
+        <key>Title</key><string>Section SR5/2/20 - Values - Functional programming</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>138</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>5818</integer>
+        <key>Title</key><string>Section SR5/2/21 - Values - Files (for Glulx external files language element only)</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>139</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>5848</integer>
+        <key>Title</key><string>Section SR5/2/22 - Values - Figures (for figures language element only)</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>140</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>5857</integer>
+        <key>Title</key><string>Section SR5/2/23 - Values - Sound effects (for sounds language element only)</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>141</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>5866</integer>
+        <key>Title</key><string>Section SR5/3/1 - Control phrases - If and unless</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>142</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>5879</integer>
+        <key>Title</key><string>Section SR5/3/2 - Control phrases - While</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>143</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>5885</integer>
+        <key>Title</key><string>Section SR5/3/3 - Control phrases - Repeat</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>144</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>5943</integer>
+        <key>Title</key><string>Section SR5/3/6 - Control phrases - Changing the flow of loops</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>145</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>5952</integer>
+        <key>Title</key><string>Section SR5/3/7 - Control phrases - Deciding outcomes</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>146</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>5971</integer>
+        <key>Title</key><string>Section SR5/3/8 - Control phrases - Stop or go</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>147</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>5978</integer>
+        <key>Title</key><string>Section SR5/4/1 - Actions, activities and rules - Trying actions</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>148</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>5992</integer>
+        <key>Title</key><string>Section SR5/4/2 - Actions, activities and rules - Action requirements</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>149</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>6010</integer>
+        <key>Title</key><string>Section SR5/4/3 - Actions, activities and rules - Stop or continue</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>150</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>6019</integer>
+        <key>Title</key><string>Section SR5/4/4 - Actions, activities and rules - Actions as values</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>151</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>6043</integer>
+        <key>Title</key><string>Section SR5/4/5 - Actions, activities and rules - Carrying out activities</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>152</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>6056</integer>
+        <key>Title</key><string>Section SR5/4/6 - Actions, activities and rules - Advanced activities</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>153</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>6083</integer>
+        <key>Title</key><string>Section SR5/4/7 - Actions, activities and rules - Following rules</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>154</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>6135</integer>
+        <key>Title</key><string>Section SR5/4/8 - Actions, activities and rules - Success and failure</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>155</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>6158</integer>
+        <key>Title</key><string>Section SR5/5/1 - Model world - Ending the story</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>156</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>6188</integer>
+        <key>Title</key><string>Section SR5/5/2 - Model world - Times of day</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>157</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>6210</integer>
+        <key>Title</key><string>Section SR5/5/3 - Model world - Durations</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>158</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>6219</integer>
+        <key>Title</key><string>Section SR5/5/4 - Model world - Timed events</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>159</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>6231</integer>
+        <key>Title</key><string>Section SR5/5/5 - Model world - Scenes</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>160</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>6246</integer>
+        <key>Title</key><string>Section SR5/5/6 - Model world - Timing of scenes</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>161</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>6261</integer>
+        <key>Title</key><string>Section SR5/5/7 - Model world - Player's identity and location</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>162</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>6267</integer>
+        <key>Title</key><string>Section SR5/5/8 - Model world - Moving and removing things</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>163</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>6285</integer>
+        <key>Title</key><string>Section SR5/5/9 - Model world - The map</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>164</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>6318</integer>
+        <key>Title</key><string>Section SR5/5/10 - Model world - Route-finding</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>165</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>6339</integer>
+        <key>Title</key><string>Section SR5/5/11 - Model world - The object tree</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>166</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>6351</integer>
+        <key>Title</key><string>Section SR5/6/1 - Understanding - Asking yes/no questions</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>167</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>6357</integer>
+        <key>Title</key><string>Section SR5/6/2 - Understanding - The player's command</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>168</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>6372</integer>
+        <key>Title</key><string>Section SR5/6/3 - Understanding - Changing the player's command</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>169</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>6387</integer>
+        <key>Title</key><string>Section SR5/6/4 - Understanding - Scope and pronouns</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>170</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>6399</integer>
+        <key>Title</key><string>Section SR5/8/1 - Message support - Issuance - Unindexed</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>171</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\standard rules.i7x</string>
+        <key>Line</key><integer>6416</integer>
+        <key>Title</key><string>Section SR5/9/1 - Miscellaneous other phrases - Unindexed</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>172</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\english language.i7x</string>
+        <key>Line</key><integer>1</integer>
+        <key>Title</key><string>Version 1 of English Language by Graham Nelson begins here</string>
+        <key>Level</key><integer>0</integer>
+        <key>Indentation</key><integer>0</integer>
+    </dict>
+    <key>173</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\english language.i7x</string>
+        <key>Line</key><integer>7</integer>
+        <key>Title</key><string>Section 1 - Modal verbs and contractions</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>174</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\english language.i7x</string>
+        <key>Line</key><integer>31</integer>
+        <key>Title</key><string>Section 1 - Grammatical definitions</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>175</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\english language.i7x</string>
+        <key>Line</key><integer>76</integer>
+        <key>Title</key><string>Section 2 - Saying pronouns</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>176</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\graham nelson\english language.i7x</string>
+        <key>Line</key><integer>258</integer>
+        <key>Title</key><string>Section 3 - Further pronouns</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>177</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>1</integer>
+        <key>Title</key><string>Version 1/210825 of Spanish Language by Sebastian Arg begins here</string>
+        <key>Level</key><integer>0</integer>
+        <key>Indentation</key><integer>0</integer>
+    </dict>
+    <key>178</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>7</integer>
+        <key>Title</key><string>Volume 0 - Previous Hackings - Fixing linux problem</string>
+        <key>Level</key><integer>1</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>179</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>14</integer>
+        <key>Title</key><string>Section 1 Ph1 Hack</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>180</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>42</integer>
+        <key>Title</key><string>Section 2 Ph2 Hack (in place of Section 1 - Grammatical definitions in English Language by Graham Nelson)</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>181</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>65</integer>
+        <key>Title</key><string>Volume 1 - Settings</string>
+        <key>Level</key><integer>1</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>182</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>94</integer>
+        <key>Title</key><string>Section 1 SR Hack - Spanish Bibliographical Data (in place of Section SR2/6a - Unindexed Standard Rules variables - Unindexed in Standard Rules by Graham Nelson)</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>183</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>107</integer>
+        <key>Title</key><string>Section 2 SR Hack - Others Hackings</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>184</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>141</integer>
+        <key>Title</key><string>Section 3 SR Hack - Spanish People (in place of Section SR1/11 - People in Standard Rules by Graham Nelson)</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>185</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>177</integer>
+        <key>Title</key><string>Volume 2 - Language</string>
+        <key>Level</key><integer>1</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>186</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>179</integer>
+        <key>Title</key><string>Part 2.1 - Determiners</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>187</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>181</integer>
+        <key>Title</key><string>Chapter 2.1.1 - Articles</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>188</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>275</integer>
+        <key>Title</key><string>Chapter 2.1.2 - Numbers</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>189</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>419</integer>
+        <key>Title</key><string>Part 2.2 - Nouns</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>190</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>421</integer>
+        <key>Title</key><string>Chapter 2.2.2 - Pronouns and possessives for the player</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>191</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>677</integer>
+        <key>Title</key><string>Chapter 2.2.3 - Pronouns and possessives for other objects</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>192</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>732</integer>
+        <key>Title</key><string>Chapter 2.2.4 - Directions</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>193</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>762</integer>
+        <key>Title</key><string>Chapter 2.2.5 - Kinds</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>194</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>764</integer>
+        <key>Title</key><string>Section 2.2.5.1 - In the Standard Rules</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>4</integer>
+    </dict>
+    <key>195</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>795</integer>
+        <key>Title</key><string>Section 2.2.5.2 - In Rideable Vehicles (for use with Rideable Vehicles by Graham Nelson)</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>4</integer>
+    </dict>
+    <key>196</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>800</integer>
+        <key>Title</key><string>Section 2.2.5.3 - In Locksmith (for use with Locksmith by Emily Short)</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>4</integer>
+    </dict>
+    <key>197</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>805</integer>
+        <key>Title</key><string>Chapter 2.2.6 - Plurals</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>198</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>861</integer>
+        <key>Title</key><string>Chapter 2.2.7 - Cases</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>199</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>866</integer>
+        <key>Title</key><string>Chapter 2.2.8 - Times of day</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>200</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>962</integer>
+        <key>Title</key><string>Part 2.3 - Adjectives</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>201</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>1009</integer>
+        <key>Title</key><string>Part 2.4 - Verbs</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>202</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>1011</integer>
+        <key>Title</key><string>Chapter 2.4.1 - Verb conjugations</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>203</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>3243</integer>
+        <key>Title</key><string>Chapter 2.4.2 - Meaningful verbs</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>204</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>3245</integer>
+        <key>Title</key><string>Section 2.4.2.1 - In the Standard Rules</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>4</integer>
+    </dict>
+    <key>205</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>3273</integer>
+        <key>Title</key><string>Section 2.4.2.2 - In Rideable Vehicles (for use with Rideable Vehicles by Graham Nelson)</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>4</integer>
+    </dict>
+    <key>206</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>3278</integer>
+        <key>Title</key><string>Section 2.4.2.3 - In Locksmith (for use with Locksmith by Emily Short)</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>4</integer>
+    </dict>
+    <key>207</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>3283</integer>
+        <key>Title</key><string>Chapter 2.4.3 - Prepositions</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>208</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>3288</integer>
+        <key>Title</key><string>Volume 3 - Responses</string>
+        <key>Level</key><integer>1</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>209</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>3290</integer>
+        <key>Title</key><string>Part 3.1 - Responses</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>210</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>3292</integer>
+        <key>Title</key><string>Chapter 3.1.1 - Responses in the Standard Rules</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>211</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>3416</integer>
+        <key>Title</key><string>Section 3.1.1.1 - Standard actions concerning the actor's possessions</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>4</integer>
+    </dict>
+    <key>212</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>3498</integer>
+        <key>Title</key><string>Section 3.1.1.2 - Standard actions which move the actor</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>4</integer>
+    </dict>
+    <key>213</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>3571</integer>
+        <key>Title</key><string>Section 3.1.1.3 - Standard actions concerning the actor's vision</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>4</integer>
+    </dict>
+    <key>214</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>3622</integer>
+        <key>Title</key><string>Section 3.1.1.4 - Standard actions which change the state of things</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>4</integer>
+    </dict>
+    <key>215</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>3700</integer>
+        <key>Title</key><string>Section 3.1.1.5 - Standard actions concerning other people</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>4</integer>
+    </dict>
+    <key>216</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>3768</integer>
+        <key>Title</key><string>Section 3.1.1.6 - Standard actions which are checked but then do nothing unless rules intervene</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>4</integer>
+    </dict>
+    <key>217</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>3841</integer>
+        <key>Title</key><string>Section 3.1.1.7 - Standard actions which always do nothing unless rules intervene</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>4</integer>
+    </dict>
+    <key>218</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>3917</integer>
+        <key>Title</key><string>Section 3.1.1.8 - Standard actions which happen out of world</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>4</integer>
+    </dict>
+    <key>219</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>3999</integer>
+        <key>Title</key><string>Chapter 3.1.2 - Responses in Basic Screen Effects (for use with Basic Screen Effects by Emily Short)</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>220</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>4003</integer>
+        <key>Title</key><string>Chapter 3.1.3 - Responses in Inanimate Listeners (for use with Inanimate Listeners by Emily Short)</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>221</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>4010</integer>
+        <key>Title</key><string>Part 3.2 - The Final Question</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>222</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>4021</integer>
+        <key>Title</key><string>Part 3.3 - Activities Rules Spanish Replacement</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>223</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>4220</integer>
+        <key>Title</key><string>Volume 4 - Command parsing</string>
+        <key>Level</key><integer>1</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>224</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>4222</integer>
+        <key>Title</key><string>Part 4.1 - Pronouns and possessives in commands</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>225</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>4288</integer>
+        <key>Title</key><string>Part 4.2 - Understand grammar</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>226</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>4290</integer>
+        <key>Title</key><string>Part 4.2.1 - Replacing English verbs</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>227</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>4373</integer>
+        <key>Title</key><string>Part 4.2.2 - Actions</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>228</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>4379</integer>
+        <key>Title</key><string>Part 4.2.2.1 - Grammar for Actions in the Game World</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>229</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>4744</integer>
+        <key>Title</key><string>Part 4.2.2.2 - Grammar for Actions which happen out of world</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>230</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>4764</integer>
+        <key>Title</key><string>Part 4.2 - Additional language-specific actions</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>231</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>4851</integer>
+        <key>Title</key><string>Part SL4 - Spanish Phrasebook</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>232</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>4853</integer>
+        <key>Title</key><string>Section SL4/0 - Spanish Saying, basados en la rutinas de impresión de InformATE !</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>233</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>4896</integer>
+        <key>Title</key><string>Part 4.3 - Command parser internals</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>234</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>4898</integer>
+        <key>Title</key><string>Section 1 - Asuntos preliminares</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>235</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>5028</integer>
+        <key>Title</key><string>Section 3 - Vocabulary</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>236</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>5086</integer>
+        <key>Title</key><string>Part 4.4 - Informese translation of commands</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>237</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>5088</integer>
+        <key>Title</key><string>Section 6 - Translation</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>238</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>5688</integer>
+        <key>Title</key><string>Section 8 - Commands</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>239</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>5796</integer>
+        <key>Title</key><string>Section 10 - Printed Inflections</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>240</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>6081</integer>
+        <key>Title</key><string>Section 12 - Otras rutinas</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>241</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>6320</integer>
+        <key>Title</key><string>Section 13 - Otras Acciones</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>242</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>6436</integer>
+        <key>Title</key><string>Section 14 - Hora en palabras</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>243</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>6442</integer>
+        <key>Title</key><string>Section 15 - Spanish Banner</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>244</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>6481</integer>
+        <key>Title</key><string>Section 16 - PrefaceByArticle Hacked</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>245</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>6555</integer>
+        <key>Title</key><string>Section 17 - IndefArt Hacked</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>246</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>6577</integer>
+        <key>Title</key><string>Section 18 - Checkin I7 Build version - Not for release</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>247</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>6614</integer>
+        <key>Title</key><string>Part TC - Special functions extracted from Text Capture by Eric Eve (for use without Text Capture by Eric Eve)</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>248</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>6634</integer>
+        <key>Title</key><string>Chapter Z - Z-Machine Version (for Z-Machine Only)</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>249</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\sebastian arg\spanish language.i7x</string>
+        <key>Line</key><integer>6669</integer>
+        <key>Title</key><string>Chapter G - Glulx (for Glulx Only)</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>250</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\emily short\glulx text effects.i7x</string>
+        <key>Line</key><integer>1</integer>
+        <key>Title</key><string>Version 5/150123 of Glulx Text Effects (for Glulx only) by Emily Short begins here</string>
+        <key>Level</key><integer>0</integer>
+        <key>Indentation</key><integer>0</integer>
+    </dict>
+    <key>251</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\emily short\glulx text effects.i7x</string>
+        <key>Line</key><integer>11</integer>
+        <key>Title</key><string>Chapter - Specifying styles</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>252</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\emily short\glulx text effects.i7x</string>
+        <key>Line</key><integer>26</integer>
+        <key>Title</key><string>Section - The Table of User Styles definition</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>253</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\emily short\glulx text effects.i7x</string>
+        <key>Line</key><integer>36</integer>
+        <key>Title</key><string>Chapter - Sorting the Table of User Styles</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>254</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\emily short\glulx text effects.i7x</string>
+        <key>Line</key><integer>80</integer>
+        <key>Title</key><string>Chapter - Setting the styles - unindexed</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>255</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\emily short\glulx text effects.i7x</string>
+        <key>Line</key><integer>188</integer>
+        <key>Title</key><string>Chapter - Additional style phrases</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>256</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\emily short\basic screen effects sp.i7x</string>
+        <key>Line</key><integer>1</integer>
+        <key>Title</key><string>Version 7 of Basic Screen Effects SP by Emily Short begins here</string>
+        <key>Level</key><integer>0</integer>
+        <key>Indentation</key><integer>0</integer>
+    </dict>
+    <key>257</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\emily short\basic screen effects sp.i7x</string>
+        <key>Line</key><integer>13</integer>
+        <key>Title</key><string>Section 3 - Foreign Lang - Spanish Localization</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>258</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\emily short\basic screen effects sp.i7x</string>
+        <key>Line</key><integer>47</integer>
+        <key>Title</key><string>Section 4 - Colores (for Z-machine only)</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>259</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\emily short\basic help menu sp.i7x</string>
+        <key>Line</key><integer>1</integer>
+        <key>Title</key><string>Basic Help Menu SP by Emily Short begins here</string>
+        <key>Level</key><integer>0</integer>
+        <key>Indentation</key><integer>0</integer>
+    </dict>
+    <key>260</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\michael martin\quip-based conversation sp.i7x</string>
+        <key>Line</key><integer>1</integer>
+        <key>Title</key><string>Version 5 of Quip-Based Conversation SP by Michael Martin begins here</string>
+        <key>Level</key><integer>0</integer>
+        <key>Indentation</key><integer>0</integer>
+    </dict>
+    <key>261</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\michael martin\quip-based conversation sp.i7x</string>
+        <key>Line</key><integer>15</integer>
+        <key>Title</key><string>Section 1 - Cancelling ASK, TELL, and ORDERS</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>262</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\michael martin\quip-based conversation sp.i7x</string>
+        <key>Line</key><integer>27</integer>
+        <key>Title</key><string>Section 2 - Member fields and default values</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>263</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\michael martin\quip-based conversation sp.i7x</string>
+        <key>Line</key><integer>44</integer>
+        <key>Title</key><string>Section 3 - Initiating conversations</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>264</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\michael martin\quip-based conversation sp.i7x</string>
+        <key>Line</key><integer>79</integer>
+        <key>Title</key><string>Section 4 - Delivering lines</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>265</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\michael martin\quip-based conversation sp.i7x</string>
+        <key>Line</key><integer>95</integer>
+        <key>Title</key><string>Section 5 - Recaps</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>266</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\michael martin\quip-based conversation sp.i7x</string>
+        <key>Line</key><integer>111</integer>
+        <key>Title</key><string>Section 6 - Utility functions</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>267</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\michael martin\quip-based conversation sp.i7x</string>
+        <key>Line</key><integer>139</integer>
+        <key>Title</key><string>Section 7 - Straightening out the parser</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>268</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\michael martin\quip-based conversation sp.i7x</string>
+        <key>Line</key><integer>145</integer>
+        <key>Title</key><string>Chapter SP - SPANISH STUFFS</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>269</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\michael martin\quip-based conversation sp.i7x</string>
+        <key>Line</key><integer>147</integer>
+        <key>Title</key><string>Section 1 - Cancelling ASK, TELL, and ORDERS</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>270</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\michael martin\quip-based conversation sp.i7x</string>
+        <key>Line</key><integer>151</integer>
+        <key>Title</key><string>Section 3 - Initiating conversations</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>271</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\michael martin\quip-based conversation sp.i7x</string>
+        <key>Line</key><integer>160</integer>
+        <key>Title</key><string>Section 4 - Delivering lines</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>272</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\michael martin\quip-based conversation sp.i7x</string>
+        <key>Line</key><integer>164</integer>
+        <key>Title</key><string>Section 5 - Recaps</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>273</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\jon ingold\flexible windows.i7x</string>
+        <key>Line</key><integer>1</integer>
+        <key>Title</key><string>Version 15/220305 of Flexible Windows (for Glulx only) by Jon Ingold begins here</string>
+        <key>Level</key><integer>0</integer>
+        <key>Indentation</key><integer>0</integer>
+    </dict>
+    <key>274</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\jon ingold\flexible windows.i7x</string>
+        <key>Line</key><integer>25</integer>
+        <key>Title</key><string>Section - Interpreter Sniffing (for use with Interpreter Sniffing by Friends of I7)</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>275</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\jon ingold\flexible windows.i7x</string>
+        <key>Line</key><integer>34</integer>
+        <key>Title</key><string>Part - Windows</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>276</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\jon ingold\flexible windows.i7x</string>
+        <key>Line</key><integer>36</integer>
+        <key>Title</key><string>Chapter - The g-window kind</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>277</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\jon ingold\flexible windows.i7x</string>
+        <key>Line</key><integer>87</integer>
+        <key>Title</key><string>Chapter - The spawning relation</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>278</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\jon ingold\flexible windows.i7x</string>
+        <key>Line</key><integer>97</integer>
+        <key>Title</key><string>Chapter - Windows for the styles table</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>279</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\jon ingold\flexible windows.i7x</string>
+        <key>Line</key><integer>107</integer>
+        <key>Title</key><string>Chapter - The built-in windows</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>280</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\jon ingold\flexible windows.i7x</string>
+        <key>Line</key><integer>122</integer>
+        <key>Title</key><string>Section - Styles for the built-in windows</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>281</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\jon ingold\flexible windows.i7x</string>
+        <key>Line</key><integer>134</integer>
+        <key>Title</key><string>Section - Open the built-in windows</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>282</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\jon ingold\flexible windows.i7x</string>
+        <key>Line</key><integer>151</integer>
+        <key>Title</key><string>Part - Variables and phrases to access the I6 template layer - unindexed</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>283</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\jon ingold\flexible windows.i7x</string>
+        <key>Line</key><integer>195</integer>
+        <key>Title</key><string>Section - And some phrases to find windows - unindexed</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>284</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\jon ingold\flexible windows.i7x</string>
+        <key>Line</key><integer>222</integer>
+        <key>Title</key><string>Part - The Flexible Windows API</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>285</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\jon ingold\flexible windows.i7x</string>
+        <key>Line</key><integer>224</integer>
+        <key>Title</key><string>Chapter - Opening and closing windows</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>286</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\jon ingold\flexible windows.i7x</string>
+        <key>Line</key><integer>242</integer>
+        <key>Title</key><string>Section - Calibrating windows - unindexed</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>287</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\jon ingold\flexible windows.i7x</string>
+        <key>Line</key><integer>264</integer>
+        <key>Title</key><string>Section - Constructing a window</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>288</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\jon ingold\flexible windows.i7x</string>
+        <key>Line</key><integer>344</integer>
+        <key>Title</key><string>Section - Deconstructing windows</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>289</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\jon ingold\flexible windows.i7x</string>
+        <key>Line</key><integer>354</integer>
+        <key>Title</key><string>Chapter - Clearing and refreshing windows</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>290</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\jon ingold\flexible windows.i7x</string>
+        <key>Line</key><integer>400</integer>
+        <key>Title</key><string>Chapter - Focus and changing the acting main window</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>291</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\jon ingold\flexible windows.i7x</string>
+        <key>Line</key><integer>426</integer>
+        <key>Title</key><string>Chapter - Grid window cursors</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>292</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\jon ingold\flexible windows.i7x</string>
+        <key>Line</key><integer>431</integer>
+        <key>Title</key><string>Chapter - Window measurements</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>293</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\jon ingold\flexible windows.i7x</string>
+        <key>Line</key><integer>453</integer>
+        <key>Title</key><string>Part - Keeping the built-in windows up to date</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>294</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\jon ingold\flexible windows.i7x</string>
+        <key>Line</key><integer>455</integer>
+        <key>Title</key><string>Chapter - Handling GGRecoverObjects ()</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>295</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\jon ingold\flexible windows.i7x</string>
+        <key>Line</key><integer>502</integer>
+        <key>Title</key><string>Chapter - Updating windows that we control</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>296</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\jon ingold\flexible windows.i7x</string>
+        <key>Line</key><integer>537</integer>
+        <key>Title</key><string>Chapter - Interjecting for windows we don't control - unindexed</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>297</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\jon ingold\flexible windows.i7x</string>
+        <key>Line</key><integer>623</integer>
+        <key>Title</key><string>Part - Window styles</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>298</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\jon ingold\flexible windows.i7x</string>
+        <key>Line</key><integer>627</integer>
+        <key>Title</key><string>Chapter - Extending Glulx Text Effects</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>299</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\jon ingold\flexible windows.i7x</string>
+        <key>Line</key><integer>629</integer>
+        <key>Title</key><string>Section - The Extended Table of User Styles definition (in place of Section - The Table of User Styles definition in Glulx Text Effects by Emily Short)</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>300</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\jon ingold\flexible windows.i7x</string>
+        <key>Line</key><integer>637</integer>
+        <key>Title</key><string>Section - Sorting the Table of User Styles</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>301</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\jon ingold\flexible windows.i7x</string>
+        <key>Line</key><integer>688</integer>
+        <key>Title</key><string>Section - Enhanced phrases for applying styles to specific window types - unindexed</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>302</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\jon ingold\flexible windows.i7x</string>
+        <key>Line</key><integer>770</integer>
+        <key>Title</key><string>Section - Applying the generic styles</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>303</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\jon ingold\flexible windows.i7x</string>
+        <key>Line</key><integer>817</integer>
+        <key>Title</key><string>Section - Applying window specific styles</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>304</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\jon ingold\flexible windows.i7x</string>
+        <key>Line</key><integer>900</integer>
+        <key>Title</key><string>Chapter - Window background colors</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>305</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\emily short\basic screen effects.i7x</string>
+        <key>Line</key><integer>1</integer>
+        <key>Title</key><string>Version 7/140425 of Basic Screen Effects by Emily Short begins here</string>
+        <key>Level</key><integer>0</integer>
+        <key>Indentation</key><integer>0</integer>
+    </dict>
+    <key>306</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\emily short\basic screen effects.i7x</string>
+        <key>Line</key><integer>9</integer>
+        <key>Title</key><string>Section - Clearing the screen</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>307</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\emily short\basic screen effects.i7x</string>
+        <key>Line</key><integer>22</integer>
+        <key>Title</key><string>Section - Waiting for key-presses, quitting suddenly</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>308</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\emily short\basic screen effects.i7x</string>
+        <key>Line</key><integer>85</integer>
+        <key>Title</key><string>Section - Showing the current quotation</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>309</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\emily short\basic screen effects.i7x</string>
+        <key>Line</key><integer>92</integer>
+        <key>Title</key><string>Section - Centering text on-screen</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>310</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\emily short\basic screen effects.i7x</string>
+        <key>Line</key><integer>146</integer>
+        <key>Title</key><string>Section - Customizing the status line</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>311</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\emily short\basic screen effects.i7x</string>
+        <key>Line</key><integer>212</integer>
+        <key>Title</key><string>Section - Color effects (for Z-machine only)</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>312</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\emily short\menus sp.i7x</string>
+        <key>Line</key><integer>1</integer>
+        <key>Title</key><string>Version 3 of Menus SP by Emily Short begins here</string>
+        <key>Level</key><integer>0</integer>
+        <key>Indentation</key><integer>0</integer>
+    </dict>
+    <key>313</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\emily short\menus sp.i7x</string>
+        <key>Line</key><integer>11</integer>
+        <key>Title</key><string>Section 1</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>314</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\michael martin\reactable quips sp.i7x</string>
+        <key>Line</key><integer>1</integer>
+        <key>Title</key><string>Version 10 of Reactable Quips SP by Michael Martin begins here</string>
+        <key>Level</key><integer>0</integer>
+        <key>Indentation</key><integer>0</integer>
+    </dict>
+    <key>315</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\michael martin\reactable quips sp.i7x</string>
+        <key>Line</key><integer>18</integer>
+        <key>Title</key><string>Section 1 - Quips</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>316</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\michael martin\reactable quips sp.i7x</string>
+        <key>Line</key><integer>95</integer>
+        <key>Title</key><string>Section 2 - Hitword-based conversation</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>317</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\michael martin\reactable quips sp.i7x</string>
+        <key>Line</key><integer>137</integer>
+        <key>Title</key><string>Section 3 - Quip Tables</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>318</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\michael martin\reactable quips sp.i7x</string>
+        <key>Line</key><integer>156</integer>
+        <key>Title</key><string>Section 4 - Straightening out the parser</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>319</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\michael martin\reactable quips sp.i7x</string>
+        <key>Line</key><integer>161</integer>
+        <key>Title</key><string>Section 5 - Text overrides</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>320</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\michael martin\reactable quips sp.i7x</string>
+        <key>Line</key><integer>172</integer>
+        <key>Title</key><string>Chapter SP - SPANISH STUFFS</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>321</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\michael martin\reactable quips sp.i7x</string>
+        <key>Line</key><integer>174</integer>
+        <key>Title</key><string>Section 1 - Quips</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>322</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\michael martin\reactable quips sp.i7x</string>
+        <key>Line</key><integer>179</integer>
+        <key>Title</key><string>Section 5 - Text overrides</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>323</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\dannii willis\alternative startup rules.i7x</string>
+        <key>Line</key><integer>1</integer>
+        <key>Title</key><string>Version 1/140516 of Alternative Startup Rules (for Glulx only) by Dannii Willis begins here</string>
+        <key>Level</key><integer>0</integer>
+        <key>Indentation</key><integer>0</integer>
+    </dict>
+    <key>324</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\dannii willis\alternative startup rules.i7x</string>
+        <key>Line</key><integer>17</integer>
+        <key>Title</key><string>Chapter - Rearranging the Startup Rules</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>325</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\dannii willis\alternative startup rules.i7x</string>
+        <key>Line</key><integer>53</integer>
+        <key>Title</key><string>Chapter - Dividing up VM_Initialise</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>326</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\emily short\glulx entry points.i7x</string>
+        <key>Line</key><integer>1</integer>
+        <key>Title</key><string>Version 10/200602 of Glulx Entry Points (for Glulx only) by Emily Short begins here</string>
+        <key>Level</key><integer>0</integer>
+        <key>Indentation</key><integer>0</integer>
+    </dict>
+    <key>327</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\emily short\glulx entry points.i7x</string>
+        <key>Line</key><integer>13</integer>
+        <key>Title</key><string>Section - Use option</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>328</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\emily short\glulx entry points.i7x</string>
+        <key>Line</key><integer>25</integer>
+        <key>Title</key><string>Section - Global variables</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>329</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\emily short\glulx entry points.i7x</string>
+        <key>Line</key><integer>33</integer>
+        <key>Title</key><string>Section - Wrappers for event structure, return values, etc</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>330</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\emily short\glulx entry points.i7x</string>
+        <key>Line</key><integer>60</integer>
+        <key>Title</key><string>Section - Internal-use wrappers - unindexed</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>331</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\emily short\glulx entry points.i7x</string>
+        <key>Line</key><integer>74</integer>
+        <key>Title</key><string>Section - Event Handling</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>332</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\emily short\glulx entry points.i7x</string>
+        <key>Line</key><integer>97</integer>
+        <key>Title</key><string>Section - HandleGlkEvent routine</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>333</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\emily short\glulx entry points.i7x</string>
+        <key>Line</key><integer>112</integer>
+        <key>Title</key><string>Section - Useful function wrappers</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>334</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\emily short\glulx entry points.i7x</string>
+        <key>Line</key><integer>122</integer>
+        <key>Title</key><string>Section - Legacy rulebooks</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>335</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\emily short\glulx entry points.i7x</string>
+        <key>Line</key><integer>163</integer>
+        <key>Title</key><string>Section - Debounce arrange events - unindexed</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>336</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\emily short\glulx entry points.i7x</string>
+        <key>Line</key><integer>218</integer>
+        <key>Title</key><string>Section - Command-counting rules</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>337</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\emily short\glulx entry points.i7x</string>
+        <key>Line</key><integer>227</integer>
+        <key>Title</key><string>Section - Input-cancelling rules</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>338</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\emily short\glulx entry points.i7x</string>
+        <key>Line</key><integer>242</integer>
+        <key>Title</key><string>Section - Command showing rules</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>339</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\emily short\glulx entry points.i7x</string>
+        <key>Line</key><integer>255</integer>
+        <key>Title</key><string>Section - Command pasting rules</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>340</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\emily short\menus.i7x</string>
+        <key>Line</key><integer>1</integer>
+        <key>Title</key><string>Version 3 of Menus by Emily Short begins here</string>
+        <key>Level</key><integer>0</integer>
+        <key>Indentation</key><integer>0</integer>
+    </dict>
+    <key>341</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\emily short\menus.i7x</string>
+        <key>Line</key><integer>9</integer>
+        <key>Title</key><string>Section 1</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>342</key><dict>
+        <key>Filename</key><string>C:\Program Files (x86)\Inform 7\Internal\Extensions\emily short\menus.i7x</string>
+        <key>Line</key><integer>208</integer>
+        <key>Title</key><string>Section 2 (for Glulx only)</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>343</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\dannii willis\glulx definitions.i7x</string>
+        <key>Line</key><integer>1</integer>
+        <key>Title</key><string>Version 1/160919 of Glulx Definitions (for Glulx only) by Dannii Willis begins here</string>
+        <key>Level</key><integer>0</integer>
+        <key>Indentation</key><integer>0</integer>
+    </dict>
+    <key>344</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\dannii willis\glulx definitions.i7x</string>
+        <key>Line</key><integer>9</integer>
+        <key>Title</key><string>Chapter - Testing interpreter features (gestalts)</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>345</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\dannii willis\glulx definitions.i7x</string>
+        <key>Line</key><integer>122</integer>
+        <key>Title</key><string>Chapter - Glulx and Glk kinds</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>346</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\dannii willis\glulx definitions.i7x</string>
+        <key>Line</key><integer>124</integer>
+        <key>Title</key><string>Section - Events</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>347</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\dannii willis\glk object recovery.i7x</string>
+        <key>Line</key><integer>1</integer>
+        <key>Title</key><string>Version 1/171025 of Glk Object Recovery (for Glulx only) by Dannii Willis begins here</string>
+        <key>Level</key><integer>0</integer>
+        <key>Indentation</key><integer>0</integer>
+    </dict>
+    <key>348</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\dannii willis\glk object recovery.i7x</string>
+        <key>Line</key><integer>11</integer>
+        <key>Title</key><string>Section - Glk object recovery</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>349</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\dannii willis\glk object recovery.i7x</string>
+        <key>Line</key><integer>26</integer>
+        <key>Title</key><string>Section - GGRecoverObjects</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>350</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\dannii willis\glk object recovery.i7x</string>
+        <key>Line</key><integer>79</integer>
+        <key>Title</key><string>Section - The built in object recovery rules</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>351</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\dannii willis\glk events.i7x</string>
+        <key>Line</key><integer>1</integer>
+        <key>Title</key><string>Version 2/200807 of Glk Events (for Glulx only) by Dannii Willis begins here</string>
+        <key>Level</key><integer>0</integer>
+        <key>Indentation</key><integer>0</integer>
+    </dict>
+    <key>352</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\dannii willis\glk events.i7x</string>
+        <key>Line</key><integer>11</integer>
+        <key>Title</key><string>Chapter - Basic event handling</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>353</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\dannii willis\glk events.i7x</string>
+        <key>Line</key><integer>13</integer>
+        <key>Title</key><string>Section - Event result variables</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>354</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\dannii willis\glk events.i7x</string>
+        <key>Line</key><integer>33</integer>
+        <key>Title</key><string>Section - The glulx input handling rules</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>355</key><dict>
+        <key>Filename</key><string>C:\Users\xavie\Documents\Inform\Extensions\dannii willis\glk events.i7x</string>
+        <key>Line</key><integer>39</integer>
+        <key>Title</key><string>Section - Intercepting glk_select ()</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+</dict></plist>

@@ -1,0 +1,1879 @@
+Start of a transcript of
+
+La musa
+Inspiración, pecado y romanticismo por Xavier Carrascosa
+Release 2 / Serial number 200614 / Inform 7 build 6M62 (I6/v6.33 lib 6/12N) 
+Identification number: //CC598049-E316-43E4-B7AC-39698419D4FF//
+Standard interpreter 1.1 (1C) / Library serial number 080126
+  - Librería I6 Española 1010.29, basada en InformATE!
+Standard Rules version 3/120430 by Graham Nelson
+Spanish Language version 1/170101 by Sebastian Arg (basada en InformATE! de Zak, con la contribución de toda la comunidad)
+Quip-Based Conversation Sp version 5 by Michael Martin (SPANISH Work by Sarganar - STAND ALONE VERSION)
+Reactable Quips SP version 10 by Michael Martin (SPANISH Work by Sarganar - STAND ALONE VERSION)
+
+>m
+En la oscuridad
+Sentado en algún punto de apoyo invisible en una oscuridad infinita, tu mirada se clava en el libro de páginas eternas que escribes con la ayuda de tu musa, acompañante fiel en tu pena y en tu pesar.
+
+Sobre el libro está tu pluma.
+
+La musa espera que escribas en el libro del destino.
+
+>matar musa
+No entendí esa frase.
+
+>escribir libro
+No entendí esa frase.
+
+>ex libro
+Es un libro cuyas páginas están salpicadas de rencores, pecados, desamores, guerras y temores, reunidos en forma de poemas de ininteligible lectura.
+
+>ex pluma
+Solo es una pluma de la que constantemente gotea sangre.
+
+>coger pluma
+Cogida.
+
+>ex pluma
+Solo es una pluma de la que constantemente gotea sangre.
+
+>i
+ Llevas:
+  una pluma
+
+>examinate
+No importa tu aspecto, eres lo que dicte tu inspiración en cada momento.
+
+>m
+En la oscuridad
+Sentado en algún punto de apoyo invisible en una oscuridad infinita, tu mirada se clava en el libro de páginas eternas que escribes con la ayuda de tu musa, acompañante fiel en tu pena y en tu pesar.
+
+La musa espera que escribas en el libro del destino.
+
+>ex musa
+Tan bella como oscura, irradia una rojiza luz maléfica que envuelve tu ser y tu libro, impregnando las páginas con sangre.
+
+La musa espera que escribas en el libro del destino.
+
+>hablra con la musa
+No entendí esa frase.
+
+>hablar con la musa, leñe
+( a la musa)
+[Utiliza HABLA CON para interactuar con los personajes.]
+
+>hablar con musa
+Ella te habla solo cuando lo desea. Sabes que lo que está esperando es que escribas en el libro y te inspires con su malévola belleza.
+
+"No hace falta que hables, tan solo escribe...", dice la musa.
+
+>m
+En la oscuridad
+Sentado en algún punto de apoyo invisible en una oscuridad infinita, tu mirada se clava en el libro de páginas eternas que escribes con la ayuda de tu musa, acompañante fiel en tu pena y en tu pesar.
+
+La musa espera que escribas en el libro del destino.
+
+>escribir
+No entendí esa frase.
+
+>escribe
+Para escribir en el libro pon "escribe TEXTO" o bien "escribe TEXTO en libro"
+
+>escribe rencor
+Escribes un verso sobre "rencor"...
+
+Otro verso ininteligible...
+
+>ex libro
+Es un libro cuyas páginas están salpicadas de rencores, pecados, desamores, guerras y temores, reunidos en forma de poemas de ininteligible lectura.
+
+>m
+En la oscuridad
+Sentado en algún punto de apoyo invisible en una oscuridad infinita, tu mirada se clava en el libro de páginas eternas que escribes con la ayuda de tu musa, acompañante fiel en tu pena y en tu pesar.
+
+No puedes dejar de mirar a tu musa.
+
+>mirar musa
+Tan bella como oscura, irradia una rojiza luz maléfica que envuelve tu ser y tu libro, impregnando las páginas con sangre.
+
+Su visión te produce una extraña reacción que ahora conoces muy bien... comienza tu inspiración.
+
+Primer acto
+Tu mente nublada se recupera del estallido de sensaciones contradictorias que te ha producido la sola visión de tu musa.
+
+Apareces de entre la bruma en un campo verde y puro. Estás cansado y te tumbas en la fresca hierba contemplando un imposible atardecer. El paisaje bucólico se ve aderezado por la aparición de un rebaño de ovejas.
+
+Has ganado un punto de destino.
+
+>ex ovejas
+Las ovejas campan a sus anchas, el rebaño se ha escapado del control del pastor, que te parece ver a lo lejos, intentando reunir de nuevo a sus animales.
+
+>atrapar ovejas
+No entendí esa frase.
+
+>x
+No entendí esa frase.
+
+>salidas
+No entendí esa frase.
+
+>m
+Primer acto
+Apareces de entre la bruma en un campo verde y puro. Estás cansado y te tumbas en la fresca hierba contemplando un imposible atardecer. El paisaje bucólico se ve aderezado por la aparición de un rebaño de ovejas.
+
+>ex campo
+Estás demasiado cansado para eso, te apetece dormir...
+
+>ex cielo
+No ves nada en especial al mirar en esa dirección.
+
+>contar ovejas
+
+*** Run-time problem P10: Since las ovejas is not allowed the property "greeting", it is against the rules to try to use it.
+
+
+Por lo general, es mejor hablar con cosas vivas.
+
+>hablar con ovejas
+
+*** Run-time problem P10: Since las ovejas is not allowed the property "greeting", it is against the rules to try to use it.
+
+
+Por lo general, es mejor hablar con cosas vivas.
+
+>m
+Primer acto
+Apareces de entre la bruma en un campo verde y puro. Estás cansado y te tumbas en la fresca hierba contemplando un imposible atardecer. El paisaje bucólico se ve aderezado por la aparición de un rebaño de ovejas.
+
+>¿la portada tendrá la imagen de una oveja Xavi?
+No entendí esa frase.
+
+>dormir
+Plácidamente te recuestas y cierras los ojos, sumiéndote de nuevo en la imperante oscuridad que te envuelve siempre que tu musa está contigo.
+
+En tus manos está la pluma y delante otra página en blanco del libro.
+
+En la oscuridad
+Sentado en algún punto de apoyo invisible en una oscuridad infinita, tu mirada se clava en el libro de páginas eternas que escribes con la ayuda de tu musa, acompañante fiel en tu pena y en tu pesar.
+
+La musa espera que escribas en el libro del destino.
+
+>escribir ovejas sobre un campo bucolico en libro
+No entendí esa frase.
+
+>escribir en libro
+No entendí esa frase.
+
+>ex musa
+Tan bella como oscura, irradia una rojiza luz maléfica que envuelve tu ser y tu libro, impregnando las páginas con sangre.
+
+La musa espera que escribas en el libro del destino.
+
+>mirar musa
+Tan bella como oscura, irradia una rojiza luz maléfica que envuelve tu ser y tu libro, impregnando las páginas con sangre.
+
+La musa espera que escribas en el libro del destino.
+
+>escribir
+No entendí esa frase.
+
+>escribe en libro
+Escribes un verso sobre "en libro"...
+
+Para escribir en el libro pon "ESCRIBE texto", "ESCRIBE texto EN LIBRO" o bien "ESCRIBE EN LIBRO texto".
+
+Teclea "AYUDA" para más instrucciones.
+
+>escribe sobre ovejas en libro
+Escribes un verso sobre "ovejas en libro"...
+
+Otro verso ininteligible...
+
+>m
+En la oscuridad
+Sentado en algún punto de apoyo invisible en una oscuridad infinita, tu mirada se clava en el libro de páginas eternas que escribes con la ayuda de tu musa, acompañante fiel en tu pena y en tu pesar.
+
+No puedes dejar de mirar a tu musa.
+
+>mirar musa
+Tan bella como oscura, irradia una rojiza luz maléfica que envuelve tu ser y tu libro, impregnando las páginas con sangre.
+
+Su visión te produce una extraña reacción que ahora conoces muy bien... comienza tu inspiración.
+
+Segundo acto
+Tu mente nublada se recupera del estallido de sensaciones contradictorias que te ha producido la sola visión de tu musa.
+
+Estás en lo alto de un castillo, desde donde puedes ver toda la sierra. Tu arrogante figura proyecta unas sombras sobre lo que parece ser un banquete improvisado, dispuesto sobre unas bandejas en el centro del torreón. A un lado puedes ver encadenado a un pobre hombre.
+
+Has ganado un punto de destino.
+
+>puntuacion
+Has ganado dos puntos de destino.
+
+>ex hombre
+Viste túnicas extranjeras rotas y roídas, tiene la mirada fiera y desafiante, a pesar de su estado esquelético y su condición de reo ajusticiado. Está encadenado a un poste y dos verdugos lo custodian.
+
+>coger comida
+Tiene una pinta estupenda, huele muy bien y su sabor es delicioso...
+
+"¡Cómete la comida!", te dice la musa desde algún lugar invisible.
+
+>dar comida a hombre
+(primero coges la comida)
+Tiene una pinta estupenda, huele muy bien y su sabor es delicioso...
+
+"¡Cómete la comida!", te dice la musa desde algún lugar invisible.
+
+>hablar con hombre
+[1] Pareces hambriento...
+
+>1
+"¡Déjame en paz, asesino!", te grita el hombre.
+
+[1] ¿Cuál es tu crimen, hombre infeliz?
+[2] ¡Azotadle!
+
+>1
+El hombre apenas puede hablar. Uno de los verdugos se acerca y te susurra al oído. Dicen que robó una gallina para poder alimentar a su familia...
+
+[1] ¡Azotadle!
+
+>ex hombre
+Viste túnicas extranjeras rotas y roídas, tiene la mirada fiera y desafiante, a pesar de su estado esquelético y su condición de reo ajusticiado. Está encadenado a un poste y dos verdugos lo custodian.
+
+>ex comida
+Es un banquete compuesto de un asado especiado, frutas y demás delicias para el paladar.
+
+"¡Cómete la comida!", te dice la musa desde algún lugar invisible.
+
+>ex musa
+No puedes verla, pero sientes la presencia acechante de tu musa.
+
+>hablar con musa
+
+*** Run-time problem P10: Since el presencia is not allowed the property "greeting", it is against the rules to try to use it.
+
+
+Por lo general, es mejor hablar con cosas vivas.
+
+>comer
+¿Qué quieres comerte?
+
+>comer comida
+Te agachas para probar la comida, más no puedes resistir a la tentación y empiezas a comer todo lo que en la bandeja hay, ante la antenta mirada de odio del ajusticiado.
+
+Todo está delicioso, y escuchas la aprobación y la sonrisa de tu musa, que te hace retornar a tu oscuridad, ante el libro del destino y la pluma sanguinolenta en tu mano.
+
+En la oscuridad
+Sentado en algún punto de apoyo invisible en una oscuridad infinita, tu mirada se clava en el libro de páginas eternas que escribes con la ayuda de tu musa, acompañante fiel en tu pena y en tu pesar.
+
+La musa espera que escribas en el libro del destino.
+
+>escribir sobre la muerte
+Escribes un verso sobre "la muerte"...
+
+Otro verso ininteligible...
+
+>ex musa
+Tan bella como oscura, irradia una rojiza luz maléfica que envuelve tu ser y tu libro, impregnando las páginas con sangre.
+
+Su visión te produce una extraña reacción que ahora conoces muy bien... comienza tu inspiración.
+
+Tercer acto
+Tu mente nublada se recupera del estallido de sensaciones contradictorias que te ha producido la sola visión de tu musa.
+
+Estás en el campo de batalla, feroces guerreros te rodean armados con espadas y artilugios de dar muerte. Ante ti hay un soldado moribundo que implora salvar su mísera vida.
+
+Has ganado un punto de destino.
+
+>ex soldado
+Es un soldado vencido en la batalla, tiene horribles heridas y le falta media mano derecha, su espada está tirada a un lado... junto al resto de su mano.
+
+>coger espada
+El hombre te suplica... "¡No! ¡Por favor, no!".
+
+>hablar con hombre
+[1] Esas heridas tienen que doler, déjame ponerle fin a tu sufrimiento...
+
+>ex musa
+No puedes verla, pero sientes la presencia acechante de tu musa.
+
+>hablar con musa
+
+*** Run-time problem P10: Since el presencia is not allowed the property "greeting", it is against the rules to try to use it.
+
+
+Por lo general, es mejor hablar con cosas vivas.
+
+>1
+¡No, por favor, no me mates! Déjame marchar!
+
+[1] Esta parece una buena espada...
+[2] ¿Quieres decir tus últimas palabras?
+
+>1
+El hombre observa con pavor la espada.
+
+Le dices:"Hay cierta poesía en morir por la propia espada de uno, blandida por su enemigo, ¿no es así?"
+
+Pones la punta de la espada sobre el gaznate del aterrado soldado.
+
+[1] ¿Quieres decir tus últimas palabras?
+
+>1
+"¡Piedad, por favor! ¿Qué locura es ésta? ¡Soy inocente!", te implora el hombre.
+
+>matar hombre
+No entendí esa frase.
+
+>m
+Tercer acto
+Estás en el campo de batalla, feroces guerreros te rodean armados con espadas y artilugios de dar muerte. Ante ti hay un soldado moribundo que implora salvar su mísera vida.
+
+>i
+ Llevas:
+  una espada
+
+>ex espada
+Una ensangrentada espada.
+
+>matar hombre
+No entendí esa frase.
+
+>matar soldado
+No entendí esa frase.
+
+>atacar soldado
+Empuñas firmemente la espada y le rebanas el cuello de un certero tajo.
+
+La sangre brota a borbotones y te ensucia los ropajes...
+
+Tu musa sonrie satisfecha ante la consecución lógica de tu nueva inspiración.
+
+Pronto te rodea la oscuridad y de nuevo te enfrentas a una nueva página en blanco.
+
+En la oscuridad
+Sentado en algún punto de apoyo invisible en una oscuridad infinita, tu mirada se clava en el libro de páginas eternas que escribes con la ayuda de tu musa, acompañante fiel en tu pena y en tu pesar.
+
+La musa espera que escribas en el libro del destino.
+
+>escribir sobre la guerra
+Escribes un verso sobre "la guerra"...
+
+Otro verso ininteligible...
+
+>ex musa
+Tan bella como oscura, irradia una rojiza luz maléfica que envuelve tu ser y tu libro, impregnando las páginas con sangre.
+
+Su visión te produce una extraña reacción que ahora conoces muy bien... comienza tu inspiración.
+
+Cuarto acto
+Tu mente nublada se recupera del estallido de sensaciones contradictorias que te ha producido la sola visión de tu musa.
+
+Tus pasos te conducen hacia una habitación amplia, decorada con motivos femeninos, donde una hermosa doncella peina su larga cabellera, ante un espejo, sentada desnuda sobre una butaca.
+
+>ex doncella
+Su bello rostro mantiene una mirada lánguida en el espejo, cepillándose enérgicamente el pelo para eliminar sus enredos. Su semblante es triste y parece que está llorando.
+
+>hablar con doncella
+[1] Buenas noches, muchacha
+
+>1
+Al articular palabra, la doncella se estremece, una lágrima cae de su rostro. No implora ayuda, ni clemencia... está indefensa ante ti.
+
+[1] ¡Deja ya de cepillarte el pelo!
+[2] Tu cabello es hermoso
+
+>2
+"Muchas gracias, mi señor...", dice la doncella.
+
+[1] ¡Deja ya de cepillarte el pelo!
+
+>1
+La chica se queda inmóvil frente al espejo.
+
+>ex chica
+Su bello rostro mantiene una mirada lánguida en el espejo, cepillándose enérgicamente el pelo para eliminar sus enredos. Su semblante es triste y parece que está llorando.
+
+>m
+Cuarto acto
+Tus pasos te conducen hacia una habitación amplia, decorada con motivos femeninos, donde una hermosa doncella peina su larga cabellera, ante un espejo, sentada desnuda sobre una butaca.
+
+>hablar con chica
+[1] ¡Deja ya de cepillarte el pelo!
+
+>m
+Cuarto acto
+Tus pasos te conducen hacia una habitación amplia, decorada con motivos femeninos, donde una hermosa doncella peina su larga cabellera, ante un espejo, sentada desnuda sobre una butaca.
+
+>ex habitacion
+Una lujosa habitación débilmente iluminada para la ocasión, donde puedes ver una butaca sobre la que se peina una doncella desnuda frente a un espejo.
+
+>ex butaca
+¿Qué importa la butaca? No puedes hacer otra cosa que mirar la deslumbrante desnudez de la doncella. 
+
+Un calor incesante se apodera de tu cuerpo, que lucha en vano por superar el instinto primario...
+
+>matate
+La violencia no es la solución.
+
+>m
+Cuarto acto
+Tus pasos te conducen hacia una habitación amplia, decorada con motivos femeninos, donde una hermosa doncella peina su larga cabellera, ante un espejo, sentada desnuda sobre una butaca.
+
+>ex musa
+No puedes verla, pero sientes la presencia acechante de tu musa.
+
+>hablar con musa
+
+*** Run-time problem P10: Since el presencia is not allowed the property "greeting", it is against the rules to try to use it.
+
+
+Por lo general, es mejor hablar con cosas vivas.
+
+>i
+No llevas nada.
+
+>m
+Cuarto acto
+Tus pasos te conducen hacia una habitación amplia, decorada con motivos femeninos, donde una hermosa doncella peina su larga cabellera, ante un espejo, sentada desnuda sobre una butaca.
+
+>besar chica
+"Demasido delicado, ¡haz lo que hay que hacer!", dice la musa.
+
+>hacer el amor a la chica
+Agarras a la doncella y se desata en tí un torbellino de deseo que sólo puede culminar en la realización de aquello que anhelas....
+
+Empujas a la doncella y ésta cae al suelo, y tú sobre ella. 
+
+Escuchas la dulce sonrisa de tu musa, que apaga los alaridos de la doncella ante tus acometidas.
+
+Y de nuevo te envuelve la oscuridad y ante tu presencia la doncella se transforma en libro, que espera de nuevo tu escritura.
+
+En la oscuridad
+Sentado en algún punto de apoyo invisible en una oscuridad infinita, tu mirada se clava en el libro de páginas eternas que escribes con la ayuda de tu musa, acompañante fiel en tu pena y en tu pesar.
+
+La musa espera que escribas en el libro del destino.
+
+>escribir en libro joder con la musa
+No entendí esa frase.
+
+>escribe joder con la musa en el libro
+Escribes un verso sobre "joder con la musa"...
+
+Otro verso ininteligible...
+
+>matar musa
+No entendí esa frase.
+
+>m
+En la oscuridad
+Sentado en algún punto de apoyo invisible en una oscuridad infinita, tu mirada se clava en el libro de páginas eternas que escribes con la ayuda de tu musa, acompañante fiel en tu pena y en tu pesar.
+
+No puedes dejar de mirar a tu musa.
+
+>despertar
+La cruda realidad es que esto no es un sueño.
+
+>matate
+La violencia no es la solución.
+
+>m
+En la oscuridad
+Sentado en algún punto de apoyo invisible en una oscuridad infinita, tu mirada se clava en el libro de páginas eternas que escribes con la ayuda de tu musa, acompañante fiel en tu pena y en tu pesar.
+
+No puedes dejar de mirar a tu musa.
+
+>ex libro
+Es un libro cuyas páginas están salpicadas de rencores, pecados, desamores, guerras y temores, reunidos en forma de poemas de ininteligible lectura.
+
+>cerrar libro
+No es algo que pueda cerrarse.
+
+>m
+En la oscuridad
+Sentado en algún punto de apoyo invisible en una oscuridad infinita, tu mirada se clava en el libro de páginas eternas que escribes con la ayuda de tu musa, acompañante fiel en tu pena y en tu pesar.
+
+No puedes dejar de mirar a tu musa.
+
+>mirar musa
+Tan bella como oscura, irradia una rojiza luz maléfica que envuelve tu ser y tu libro, impregnando las páginas con sangre.
+
+Su visión te produce una extraña reacción que ahora conoces muy bien... comienza tu inspiración.
+
+Quinto acto
+Tu mente nublada se recupera del estallido de sensaciones contradictorias que te ha producido la sola visión de tu musa.
+
+Puedes vislumbrar el lugar donde te parece estar, una extraña sala octogonal recubierta de pinturas obscenas. En el centro, entre almohadas y finas telas, descansa dormido un rico mercader, sosteniendo entre sus manos un gran diamante tallado con la forma de una flor.
+
+Has ganado un punto de destino.
+
+>robar diamante
+No entendí esa frase.
+
+>ex mercader
+Un orondo mercader, vestido con ricas telas, tumbado sobre almohadas y cojines, cuyos ronquidos retruenan en la sala y enturbian la cegadora belleza del diamante que sostiene en sus manos.
+
+>hablar con mercader
+"¡Silencio! No queremos que se despierte...", dice tu musa.
+
+>ex diamante
+El diamante más maravilloso que existe, sin duda. Es tal su belleza... es tanto su valor... 
+
+"Cógelo, es tuyo", dice la musa.
+
+>coger diamante
+El mercader mantiene entre sus manos el diamante con fuerza, no te permite llevártelo.
+
+Se gira un poco y emite un perezoso resoplido.
+
+>matar mercader
+No entendí esa frase.
+
+>mata mercader
+No sabes con qué atacar, no hay nada a mano... 
+
+"Vamos, sabes como hacerlo...", susurra la musa.
+
+>m
+Quinto acto
+Puedes vislumbrar el lugar donde te parece estar, una extraña sala octogonal recubierta de pinturas obscenas. En el centro, entre almohadas y finas telas, descansa dormido un rico mercader, sosteniendo entre sus manos un gran diamante tallado con la forma de una flor.
+
+>coger almohada
+Suavemente coges una de las almohadas sin que el mercader se percate...
+
+"Eso es, ahora hazlo...", dice tu musa.
+
+>ahogar mercader
+No entendí esa frase.
+
+>ahoga mercader
+No entendí esa frase.
+
+>mata mercader
+Coges una de las almohadas y la colocas sobre el rostro del mercader, con fuerza y decisión.
+
+Pronto sus ronquidos se tornan en sonidos ahogados que no logras reconocer, manotea y mueve sus pies desacompasadamente, hasta que ya no lo hace.
+
+Retiras la almohada a un lado. Los ojos del mercader están abiertos de par en par, en una última mueca de sorpresa y terror.
+
+>coger diamante
+¡Ahora sí! ¡Ya es tuyo! Tus manos lo rozan y ya sientes el placer.
+
+Es cuando lo tienes entre tus manos cuando te encuentras de nuevo ante tu libro, pluma en mano.
+
+La musa sonrie maléficamente satisfecha. La página está esperando.
+
+En la oscuridad
+Sentado en algún punto de apoyo invisible en una oscuridad infinita, tu mirada se clava en el libro de páginas eternas que escribes con la ayuda de tu musa, acompañante fiel en tu pena y en tu pesar.
+
+La musa espera que escribas en el libro del destino.
+
+Has ganado un punto de destino.
+
+>puntuacion
+Has ganado cinco puntos de destino.
+
+>i
+ Llevas:
+  una pluma
+
+>m
+En la oscuridad
+Sentado en algún punto de apoyo invisible en una oscuridad infinita, tu mirada se clava en el libro de páginas eternas que escribes con la ayuda de tu musa, acompañante fiel en tu pena y en tu pesar.
+
+La musa espera que escribas en el libro del destino.
+
+>romper pluma
+La violencia no es la solución.
+
+>escribir sobre diamantes
+Escribes un verso sobre "diamantes"...
+
+Otro verso ininteligible...
+
+>ex musa
+Tan bella como oscura, irradia una rojiza luz maléfica que envuelve tu ser y tu libro, impregnando las páginas con sangre.
+
+Su visión te produce una extraña reacción que ahora conoces muy bien... comienza tu inspiración.
+
+Sexto acto
+Tu mente nublada se recupera del estallido de sensaciones contradictorias que te ha producido la sola visión de tu musa.
+
+Te encuentras ante una multitud de fieles que te aclaman como su señor, sus cánticos resuenan en la oscura noche. Eres el gran maestre. Un poco más allá puedes ver una pequeña hoguera..
+
+Estás frente a un improvisado altar hecho con piedras, encima de las cuales hay un ternero degollado.
+
+Has ganado un punto de destino.
+
+>quemar ternero
+Con esa peligrosa acción no lograrías nada.
+
+>ex ternero
+Un ternero degollado, forma parte del ritual. Los fieles esperan a que empieces el ritual.
+
+>ex hoguera
+Una hoguera crepita en la noche. Ilumina débilmente el altar.
+
+>m
+Sexto acto
+Te encuentras ante una multitud de fieles que te aclaman como su señor, sus cánticos resuenan en la oscura noche. Eres el gran maestre. Un poco más allá puedes ver una pequeña hoguera..
+
+Estás frente a un improvisado altar hecho con piedras, encima de las cuales hay un ternero degollado.
+
+>i
+No llevas nada.
+
+>m
+Sexto acto
+Te encuentras ante una multitud de fieles que te aclaman como su señor, sus cánticos resuenan en la oscura noche. Eres el gran maestre. Un poco más allá puedes ver una pequeña hoguera..
+
+Estás frente a un improvisado altar hecho con piedras, encima de las cuales hay un ternero degollado.
+
+>coger ternero
+Parece que es parte del altar.
+
+>comer ternero
+"¿Acaso no son sus vísceras, su corazón y su sangre lo que deseas?", pregunta la musa.
+
+>i
+No llevas nada.
+
+>m
+Sexto acto
+Te encuentras ante una multitud de fieles que te aclaman como su señor, sus cánticos resuenan en la oscura noche. Eres el gran maestre. Un poco más allá puedes ver una pequeña hoguera..
+
+Estás frente a un improvisado altar hecho con piedras, encima de las cuales hay un ternero degollado.
+
+>arrancar corazon a ternero
+No entendí esa frase.
+
+>m
+Sexto acto
+Te encuentras ante una multitud de fieles que te aclaman como su señor, sus cánticos resuenan en la oscura noche. Eres el gran maestre. Un poco más allá puedes ver una pequeña hoguera..
+
+Estás frente a un improvisado altar hecho con piedras, encima de las cuales hay un ternero degollado.
+
+>degollar ternero
+No entendí esa frase.
+
+>ex hoguera
+Una hoguera crepita en la noche. Ilumina débilmente el altar.
+
+>coger leña
+No veo eso que dices.
+
+>coger antorcha
+No veo eso que dices.
+
+>quema ternero
+Con esa peligrosa acción no lograrías nada.
+
+>cortar ternero
+Cortándolo no lograrás gran cosa.
+
+>m
+Sexto acto
+Te encuentras ante una multitud de fieles que te aclaman como su señor, sus cánticos resuenan en la oscura noche. Eres el gran maestre. Un poco más allá puedes ver una pequeña hoguera..
+
+Estás frente a un improvisado altar hecho con piedras, encima de las cuales hay un ternero degollado.
+
+>ex ternero
+Un ternero degollado, forma parte del ritual. Los fieles esperan a que empieces el ritual.
+
+>comer ternero
+"¿Acaso no son sus vísceras, su corazón y su sangre lo que deseas?", pregunta la musa.
+
+>ayuda
+ > Introducción a La musa
+   Instrucciones para Jugar
+   Pistas
+   Opciones
+   Contactar con el autor
+   Poema de Roberto Menéndez
+
+   Introducción a La musa
+ > Instrucciones para Jugar
+   Pistas
+   Opciones
+   Contactar con el autor
+   Poema de Roberto Menéndez
+   Introducción a La musa
+ > Instrucciones para Jugar
+   Pistas
+   Opciones
+   Contactar con el autor
+   Poema de Roberto Menéndez
+
+   Introducción a La musa
+   Instrucciones para Jugar
+ > Pistas
+   Opciones
+   Contactar con el autor
+   Poema de Roberto Menéndez
+   Introducción a La musa
+   Instrucciones para Jugar
+ > Pistas
+   Opciones
+   Contactar con el autor
+   Poema de Roberto Menéndez
+
+ > ¿Qué tengo que escribir en el libro?
+   ¿Cómo puedo resolver los actos?
+   ¿Cómo puedo acabar con la musa?
+
+   ¿Qué tengo que escribir en el libro?
+ > ¿Cómo puedo resolver los actos?
+   ¿Cómo puedo acabar con la musa?
+   ¿Qué tengo que escribir en el libro?
+ > ¿Cómo puedo resolver los actos?
+   ¿Cómo puedo acabar con la musa?
+
+1/9: Después de escribir en el libro, la musa espera que la mires. Solo así conseguirás la inspiración.
+
+Pulsa la tecla espaciadora para retornar al menú o H para enseñar otra pista.
+1/9: Después de escribir en el libro, la musa espera que la mires. Solo así conseguirás la inspiración.
+
+2/9: En el primer acto nos sentimos algo cansados. ¿Qué haces cuando estás cansado?
+
+Pulsa la tecla espaciadora para retornar al menú o H para desvelar otra pista.
+1/9: Después de escribir en el libro, la musa espera que la mires. Solo así conseguirás la inspiración.
+
+2/9: En el primer acto nos sentimos algo cansados. ¿Qué haces cuando estás cansado?
+
+3/9: En el segundo acto tenemos mucha comida disponible. ¿Qué haces cuando tienes hambre?
+
+Pulsa la tecla espaciadora para retornar al menú o H para desvelar otra pista.
+1/9: Después de escribir en el libro, la musa espera que la mires. Solo así conseguirás la inspiración.
+
+2/9: En el primer acto nos sentimos algo cansados. ¿Qué haces cuando estás cansado?
+
+3/9: En el segundo acto tenemos mucha comida disponible. ¿Qué haces cuando tienes hambre?
+
+4/9: En el tercer acto podemos matar a un soldado con su propia arma.
+
+Pulsa la tecla espaciadora para retornar al menú o H para desvelar otra pista.
+1/9: Después de escribir en el libro, la musa espera que la mires. Solo así conseguirás la inspiración.
+
+2/9: En el primer acto nos sentimos algo cansados. ¿Qué haces cuando estás cansado?
+
+3/9: En el segundo acto tenemos mucha comida disponible. ¿Qué haces cuando tienes hambre?
+
+4/9: En el tercer acto podemos matar a un soldado con su propia arma.
+
+5/9: En el cuarto acto debemos hacer algo pecaminoso que es la razón por la cual este juego no es apto para menores.
+
+Pulsa la tecla espaciadora para retornar al menú o H para desvelar otra pista.
+1/9: Después de escribir en el libro, la musa espera que la mires. Solo así conseguirás la inspiración.
+
+2/9: En el primer acto nos sentimos algo cansados. ¿Qué haces cuando estás cansado?
+
+3/9: En el segundo acto tenemos mucha comida disponible. ¿Qué haces cuando tienes hambre?
+
+4/9: En el tercer acto podemos matar a un soldado con su propia arma.
+
+5/9: En el cuarto acto debemos hacer algo pecaminoso que es la razón por la cual este juego no es apto para menores.
+
+6/9: En el quinto acto hay algo que queremos y haremos lo necesario para conseguirlo.
+
+Pulsa la tecla espaciadora para retornar al menú o H para desvelar otra pista.
+1/9: Después de escribir en el libro, la musa espera que la mires. Solo así conseguirás la inspiración.
+
+2/9: En el primer acto nos sentimos algo cansados. ¿Qué haces cuando estás cansado?
+
+3/9: En el segundo acto tenemos mucha comida disponible. ¿Qué haces cuando tienes hambre?
+
+4/9: En el tercer acto podemos matar a un soldado con su propia arma.
+
+5/9: En el cuarto acto debemos hacer algo pecaminoso que es la razón por la cual este juego no es apto para menores.
+
+6/9: En el quinto acto hay algo que queremos y haremos lo necesario para conseguirlo.
+
+7/9: En el sexto acto debemos subir al altar y terminar con el ritual, pero también conseguir algo para el último acto.
+
+Pulsa la tecla espaciadora para retornar al menú o H para desvelar otra pista.
+   ¿Qué tengo que escribir en el libro?
+ > ¿Cómo puedo resolver los actos?
+   ¿Cómo puedo acabar con la musa?
+   ¿Qué tengo que escribir en el libro?
+ > ¿Cómo puedo resolver los actos?
+   ¿Cómo puedo acabar con la musa?
+
+1/9: Después de escribir en el libro, la musa espera que la mires. Solo así conseguirás la inspiración.
+
+2/9: En el primer acto nos sentimos algo cansados. ¿Qué haces cuando estás cansado?
+
+3/9: En el segundo acto tenemos mucha comida disponible. ¿Qué haces cuando tienes hambre?
+
+4/9: En el tercer acto podemos matar a un soldado con su propia arma.
+
+5/9: En el cuarto acto debemos hacer algo pecaminoso que es la razón por la cual este juego no es apto para menores.
+
+6/9: En el quinto acto hay algo que queremos y haremos lo necesario para conseguirlo.
+
+7/9: En el sexto acto debemos subir al altar y terminar con el ritual, pero también conseguir algo para el último acto.
+
+Pulsa la tecla espaciadora para retornar al menú o H para enseñar otra pista.
+   ¿Qué tengo que escribir en el libro?
+ > ¿Cómo puedo resolver los actos?
+   ¿Cómo puedo acabar con la musa?
+   ¿Qué tengo que escribir en el libro?
+ > ¿Cómo puedo resolver los actos?
+   ¿Cómo puedo acabar con la musa?
+
+1/9: Después de escribir en el libro, la musa espera que la mires. Solo así conseguirás la inspiración.
+
+2/9: En el primer acto nos sentimos algo cansados. ¿Qué haces cuando estás cansado?
+
+3/9: En el segundo acto tenemos mucha comida disponible. ¿Qué haces cuando tienes hambre?
+
+4/9: En el tercer acto podemos matar a un soldado con su propia arma.
+
+5/9: En el cuarto acto debemos hacer algo pecaminoso que es la razón por la cual este juego no es apto para menores.
+
+6/9: En el quinto acto hay algo que queremos y haremos lo necesario para conseguirlo.
+
+7/9: En el sexto acto debemos subir al altar y terminar con el ritual, pero también conseguir algo para el último acto.
+
+Pulsa la tecla espaciadora para retornar al menú o H para enseñar otra pista.
+   ¿Qué tengo que escribir en el libro?
+ > ¿Cómo puedo resolver los actos?
+   ¿Cómo puedo acabar con la musa?
+   ¿Qué tengo que escribir en el libro?
+ > ¿Cómo puedo resolver los actos?
+   ¿Cómo puedo acabar con la musa?
+
+1/9: Después de escribir en el libro, la musa espera que la mires. Solo así conseguirás la inspiración.
+
+2/9: En el primer acto nos sentimos algo cansados. ¿Qué haces cuando estás cansado?
+
+3/9: En el segundo acto tenemos mucha comida disponible. ¿Qué haces cuando tienes hambre?
+
+4/9: En el tercer acto podemos matar a un soldado con su propia arma.
+
+5/9: En el cuarto acto debemos hacer algo pecaminoso que es la razón por la cual este juego no es apto para menores.
+
+6/9: En el quinto acto hay algo que queremos y haremos lo necesario para conseguirlo.
+
+7/9: En el sexto acto debemos subir al altar y terminar con el ritual, pero también conseguir algo para el último acto.
+
+Pulsa la tecla espaciadora para retornar al menú o H para enseñar otra pista.
+   ¿Qué tengo que escribir en el libro?
+ > ¿Cómo puedo resolver los actos?
+   ¿Cómo puedo acabar con la musa?
+   ¿Qué tengo que escribir en el libro?
+ > ¿Cómo puedo resolver los actos?
+   ¿Cómo puedo acabar con la musa?
+
+ > ¿Qué tengo que escribir en el libro?
+   ¿Cómo puedo resolver los actos?
+   ¿Cómo puedo acabar con la musa?
+ > ¿Qué tengo que escribir en el libro?
+   ¿Cómo puedo resolver los actos?
+   ¿Cómo puedo acabar con la musa?
+
+ > ¿Qué tengo que escribir en el libro?
+   ¿Cómo puedo resolver los actos?
+   ¿Cómo puedo acabar con la musa?
+ > ¿Qué tengo que escribir en el libro?
+   ¿Cómo puedo resolver los actos?
+   ¿Cómo puedo acabar con la musa?
+
+ > ¿Qué tengo que escribir en el libro?
+   ¿Cómo puedo resolver los actos?
+   ¿Cómo puedo acabar con la musa?
+ > ¿Qué tengo que escribir en el libro?
+   ¿Cómo puedo resolver los actos?
+   ¿Cómo puedo acabar con la musa?
+
+ > ¿Qué tengo que escribir en el libro?
+   ¿Cómo puedo resolver los actos?
+   ¿Cómo puedo acabar con la musa?
+ > ¿Qué tengo que escribir en el libro?
+   ¿Cómo puedo resolver los actos?
+   ¿Cómo puedo acabar con la musa?
+ > ¿Qué tengo que escribir en el libro?
+   ¿Cómo puedo resolver los actos?
+   ¿Cómo puedo acabar con la musa?
+
+   ¿Qué tengo que escribir en el libro?
+ > ¿Cómo puedo resolver los actos?
+   ¿Cómo puedo acabar con la musa?
+   ¿Qué tengo que escribir en el libro?
+ > ¿Cómo puedo resolver los actos?
+   ¿Cómo puedo acabar con la musa?
+
+ > ¿Qué tengo que escribir en el libro?
+   ¿Cómo puedo resolver los actos?
+   ¿Cómo puedo acabar con la musa?
+ > ¿Qué tengo que escribir en el libro?
+   ¿Cómo puedo resolver los actos?
+   ¿Cómo puedo acabar con la musa?
+
+ > ¿Qué tengo que escribir en el libro?
+   ¿Cómo puedo resolver los actos?
+   ¿Cómo puedo acabar con la musa?
+ > ¿Qué tengo que escribir en el libro?
+   ¿Cómo puedo resolver los actos?
+   ¿Cómo puedo acabar con la musa?
+
+   Introducción a La musa
+   Instrucciones para Jugar
+ > Pistas
+   Opciones
+   Contactar con el autor
+   Poema de Roberto Menéndez
+
+Sexto acto
+Te encuentras ante una multitud de fieles que te aclaman como su señor, sus cánticos resuenan en la oscura noche. Eres el gran maestre. Un poco más allá puedes ver una pequeña hoguera..
+
+Estás frente a un improvisado altar hecho con piedras, encima de las cuales hay un ternero degollado.
+
+>ex altar
+Es un altar de piedra, los fieles esperan a que subas para empezar el ritual.
+
+>subir altar
+Subes al altar. La muchedumbre enloquece y sus cánticos se aceleran.
+
+Sexto acto (en el altar)
+Te encuentras ante una multitud de fieles que te aclaman como su señor, sus cánticos resuenan en la oscura noche. Eres el gran maestre. Un poco más allá puedes ver una pequeña hoguera..
+
+>ex ternero
+Un ternero degollado, forma parte del ritual. Los fieles estan espectantes y sus cánticos se aceleran.
+
+>comer ternero
+"¿Acaso no son sus vísceras, su corazón y su sangre lo que deseas?", pregunta la musa.
+
+>beber sangre
+Eso no parece potable.
+
+>beber sangre de ternero
+Intenta de nuevo, porque sólo te pude entender: beber  la sangre.
+
+>hablar con la musa, tia en serio
+(te)
+[Utiliza HABLA CON para interactuar con los personajes.]
+
+>m
+Sexto acto (en el altar)
+Te encuentras ante una multitud de fieles que te aclaman como su señor, sus cánticos resuenan en la oscura noche. Eres el gran maestre. Un poco más allá puedes ver una pequeña hoguera..
+
+>ex ternero
+Un ternero degollado, forma parte del ritual. Los fieles estan espectantes y sus cánticos se aceleran.
+
+>coger corazon
+Parece que es parte del ternero.
+
+>arrancar corazon a ternero
+No entendí esa frase.
+
+>m
+Sexto acto (en el altar)
+Te encuentras ante una multitud de fieles que te aclaman como su señor, sus cánticos resuenan en la oscura noche. Eres el gran maestre. Un poco más allá puedes ver una pequeña hoguera..
+
+>coger visceras
+Parece que es parte del ternero.
+
+>m
+Sexto acto (en el altar)
+Te encuentras ante una multitud de fieles que te aclaman como su señor, sus cánticos resuenan en la oscura noche. Eres el gran maestre. Un poco más allá puedes ver una pequeña hoguera..
+
+>ayuda
+ > Introducción a La musa
+   Instrucciones para Jugar
+   Pistas
+   Opciones
+   Contactar con el autor
+   Poema de Roberto Menéndez
+
+   Introducción a La musa
+ > Instrucciones para Jugar
+   Pistas
+   Opciones
+   Contactar con el autor
+   Poema de Roberto Menéndez
+   Introducción a La musa
+ > Instrucciones para Jugar
+   Pistas
+   Opciones
+   Contactar con el autor
+   Poema de Roberto Menéndez
+
+   Introducción a La musa
+   Instrucciones para Jugar
+ > Pistas
+   Opciones
+   Contactar con el autor
+   Poema de Roberto Menéndez
+   Introducción a La musa
+   Instrucciones para Jugar
+ > Pistas
+   Opciones
+   Contactar con el autor
+   Poema de Roberto Menéndez
+
+ > ¿Qué tengo que escribir en el libro?
+   ¿Cómo puedo resolver los actos?
+   ¿Cómo puedo acabar con la musa?
+
+   ¿Qué tengo que escribir en el libro?
+ > ¿Cómo puedo resolver los actos?
+   ¿Cómo puedo acabar con la musa?
+   ¿Qué tengo que escribir en el libro?
+ > ¿Cómo puedo resolver los actos?
+   ¿Cómo puedo acabar con la musa?
+
+1/9: Después de escribir en el libro, la musa espera que la mires. Solo así conseguirás la inspiración.
+
+2/9: En el primer acto nos sentimos algo cansados. ¿Qué haces cuando estás cansado?
+
+3/9: En el segundo acto tenemos mucha comida disponible. ¿Qué haces cuando tienes hambre?
+
+4/9: En el tercer acto podemos matar a un soldado con su propia arma.
+
+5/9: En el cuarto acto debemos hacer algo pecaminoso que es la razón por la cual este juego no es apto para menores.
+
+6/9: En el quinto acto hay algo que queremos y haremos lo necesario para conseguirlo.
+
+7/9: En el sexto acto debemos subir al altar y terminar con el ritual, pero también conseguir algo para el último acto.
+
+Pulsa la tecla espaciadora para retornar al menú o H para enseñar otra pista.
+1/9: Después de escribir en el libro, la musa espera que la mires. Solo así conseguirás la inspiración.
+
+2/9: En el primer acto nos sentimos algo cansados. ¿Qué haces cuando estás cansado?
+
+3/9: En el segundo acto tenemos mucha comida disponible. ¿Qué haces cuando tienes hambre?
+
+4/9: En el tercer acto podemos matar a un soldado con su propia arma.
+
+5/9: En el cuarto acto debemos hacer algo pecaminoso que es la razón por la cual este juego no es apto para menores.
+
+6/9: En el quinto acto hay algo que queremos y haremos lo necesario para conseguirlo.
+
+7/9: En el sexto acto debemos subir al altar y terminar con el ritual, pero también conseguir algo para el último acto.
+
+8/9: En el séptimo y último acto terminaremos drásticamente lo que en el primero nos dio pereza hacer.
+
+Pulsa la tecla espaciadora para retornar al menú o H para desvelar otra pista.
+   ¿Qué tengo que escribir en el libro?
+ > ¿Cómo puedo resolver los actos?
+   ¿Cómo puedo acabar con la musa?
+   ¿Qué tengo que escribir en el libro?
+ > ¿Cómo puedo resolver los actos?
+   ¿Cómo puedo acabar con la musa?
+
+1/9: Después de escribir en el libro, la musa espera que la mires. Solo así conseguirás la inspiración.
+
+2/9: En el primer acto nos sentimos algo cansados. ¿Qué haces cuando estás cansado?
+
+3/9: En el segundo acto tenemos mucha comida disponible. ¿Qué haces cuando tienes hambre?
+
+4/9: En el tercer acto podemos matar a un soldado con su propia arma.
+
+5/9: En el cuarto acto debemos hacer algo pecaminoso que es la razón por la cual este juego no es apto para menores.
+
+6/9: En el quinto acto hay algo que queremos y haremos lo necesario para conseguirlo.
+
+7/9: En el sexto acto debemos subir al altar y terminar con el ritual, pero también conseguir algo para el último acto.
+
+8/9: En el séptimo y último acto terminaremos drásticamente lo que en el primero nos dio pereza hacer.
+
+Pulsa la tecla espaciadora para retornar al menú o H para enseñar otra pista.
+   ¿Qué tengo que escribir en el libro?
+ > ¿Cómo puedo resolver los actos?
+   ¿Cómo puedo acabar con la musa?
+   ¿Qué tengo que escribir en el libro?
+ > ¿Cómo puedo resolver los actos?
+   ¿Cómo puedo acabar con la musa?
+
+ > ¿Qué tengo que escribir en el libro?
+   ¿Cómo puedo resolver los actos?
+   ¿Cómo puedo acabar con la musa?
+ > ¿Qué tengo que escribir en el libro?
+   ¿Cómo puedo resolver los actos?
+   ¿Cómo puedo acabar con la musa?
+
+ > ¿Qué tengo que escribir en el libro?
+   ¿Cómo puedo resolver los actos?
+   ¿Cómo puedo acabar con la musa?
+ > ¿Qué tengo que escribir en el libro?
+   ¿Cómo puedo resolver los actos?
+   ¿Cómo puedo acabar con la musa?
+
+ > ¿Qué tengo que escribir en el libro?
+   ¿Cómo puedo resolver los actos?
+   ¿Cómo puedo acabar con la musa?
+ > ¿Qué tengo que escribir en el libro?
+   ¿Cómo puedo resolver los actos?
+   ¿Cómo puedo acabar con la musa?
+
+ > ¿Qué tengo que escribir en el libro?
+   ¿Cómo puedo resolver los actos?
+   ¿Cómo puedo acabar con la musa?
+ > ¿Qué tengo que escribir en el libro?
+   ¿Cómo puedo resolver los actos?
+   ¿Cómo puedo acabar con la musa?
+
+1/5: ¿Has cogido la pluma ya? Sin la pluma no podrás escribir...
+
+Pulsa la tecla espaciadora para retornar al menú o H para enseñar otra pista.
+ > ¿Qué tengo que escribir en el libro?
+   ¿Cómo puedo resolver los actos?
+   ¿Cómo puedo acabar con la musa?
+ > ¿Qué tengo que escribir en el libro?
+   ¿Cómo puedo resolver los actos?
+   ¿Cómo puedo acabar con la musa?
+
+   Introducción a La musa
+   Instrucciones para Jugar
+ > Pistas
+   Opciones
+   Contactar con el autor
+   Poema de Roberto Menéndez
+
+Sexto acto (en el altar)
+Te encuentras ante una multitud de fieles que te aclaman como su señor, sus cánticos resuenan en la oscura noche. Eres el gran maestre. Un poco más allá puedes ver una pequeña hoguera..
+
+>i
+No llevas nada.
+
+>xyzzy
+No entendí esa frase.
+
+>acabar ritual
+Intenta de nuevo, porque sólo te pude entender: abandonar el juego.
+
+>realizar ritual
+No entendí esa frase.
+
+>m
+Sexto acto (en el altar)
+Te encuentras ante una multitud de fieles que te aclaman como su señor, sus cánticos resuenan en la oscura noche. Eres el gran maestre. Un poco más allá puedes ver una pequeña hoguera..
+
+>escuchar
+No escuchas nada fuera de lo común.
+
+>cantar
+Entonas una amarga melodia en una arcana lengua hace tiempo olvidada.
+
+>m
+Sexto acto (en el altar)
+Te encuentras ante una multitud de fieles que te aclaman como su señor, sus cánticos resuenan en la oscura noche. Eres el gran maestre. Un poco más allá puedes ver una pequeña hoguera..
+
+>ex fieles
+Los fieles recitan cánticos prohibidos. La muchedumbre espera la culminación del ritual.
+
+>culminar el ritual
+No entendí esa frase.
+
+>m
+Sexto acto (en el altar)
+Te encuentras ante una multitud de fieles que te aclaman como su señor, sus cánticos resuenan en la oscura noche. Eres el gran maestre. Un poco más allá puedes ver una pequeña hoguera..
+
+>i
+No llevas nada.
+
+>pequeña hoguera lleva dos puntos detrás
+No entendí esa frase.
+
+>m
+Sexto acto (en el altar)
+Te encuentras ante una multitud de fieles que te aclaman como su señor, sus cánticos resuenan en la oscura noche. Eres el gran maestre. Un poco más allá puedes ver una pequeña hoguera..
+
+>realizar sacrificio
+No entendí esa frase.
+
+>desollar ternero
+No entendí esa frase.
+
+>vaciar ternero
+No entendí esa frase.
+
+>m
+Sexto acto (en el altar)
+Te encuentras ante una multitud de fieles que te aclaman como su señor, sus cánticos resuenan en la oscura noche. Eres el gran maestre. Un poco más allá puedes ver una pequeña hoguera..
+
+>ex ternero
+Un ternero degollado, forma parte del ritual. Los fieles estan espectantes y sus cánticos se aceleran.
+
+>comer ternero
+"¿Acaso no son sus vísceras, su corazón y su sangre lo que deseas?", pregunta la musa.
+
+>ex sangre
+La sangre salpica en las piedras del altar. Su aroma te estimula a continuar con el ritual.
+
+>ex piedras
+Son las piedras que forman el altar. Son piedras malditas.
+
+>coger piedras
+Observas una de las piedras que forman este altar madito. La recoges. Cabe perfectamente en la palma de tu mano. Servirá.
+
+"Así es como debe ser", dice la musa.
+
+>golpear musa
+La violencia no es la solución.
+
+>golpear ternero
+El ternero está degollado, puedes ver sus vísceras y su corazón aún latiente, derramando sangre.
+
+"¿Acaso no recuerdas como culminar el ritual?", pregunta la musa.
+
+>coger visceras
+Parece que es parte del ternero.
+
+>comer visceras
+Acercas tu boca hacia las vísceras, sintiendo una vez más el dulce sabor de la sangre de una criatura inocente. Los cultistas gritan de júbilo, el fuego de la hoguera crepita y se yergue entre la muchedumbre como un aciago fénix.
+
+El ritual se ha completado. Una última gota de sangre cae por entre la comisura de tus labios. El fuego se expande y los cánticos cesan a medida que los cuerpos se consumen en cenizas. Sólo queda ya el último acto...
+
+Lo que sucede después te sumerge de nuevo en la oscuridad más absoluta, pero de nuevo te ilumina la malévola luz de tu musa, que sonríe mientras espera que escribas de nuevo en el libro.
+
+En la oscuridad
+Sentado en algún punto de apoyo invisible en una oscuridad infinita, tu mirada se clava en el libro de páginas eternas que escribes con la ayuda de tu musa, acompañante fiel en tu pena y en tu pesar.
+
+La musa espera que escribas en el libro del destino.
+
+>i
+ Llevas:
+  una pluma
+  una piedra
+
+>ex piedra
+Una piedra maldita.
+
+>golpear musa con la piedra
+Intenta de nuevo, porque sólo te pude entender: golpear  la musa.
+
+>golpear a la musa
+"¡No es a mí a quien debes lanzar esa piedra, sino a tu hermano!", te indica la musa.
+
+Y así, de una forma aún más dolorosa... comienza tu inspiración.
+
+Tan bella como oscura, irradia una rojiza luz maléfica que envuelve tu ser y tu libro, impregnando las páginas con sangre.
+
+Su visión te produce una extraña reacción que ahora conoces muy bien... comienza tu inspiración.
+
+Séptimo acto
+Tu mente nublada se recupera del estallido de sensaciones contradictorias que te ha producido la sola visión de tu musa.
+
+Estás caminando descalzo sobre tierra húmeda, recién labrada. Alzas la vista, parece que se avecina tormenta. Tienes una piedra en tu mano. No recuerdas por qué sonríes satisfecho y temeroso a la vez.
+
+A lo lejos puedes ver de nuevo al pastor.
+
+Has ganado un punto de destino.
+
+>ex pastor
+Es un pastor orgulloso, el favorito de su padre.
+
+>atacar pastor
+Lanzas la piedra a la cabeza de tu hermano, acertando de lleno. La sangre brota de sus sienes y cae a plomo sobre la tierra.
+
+Te acercas hacia el cuerpo moribundo y de nuevo coges la piedra. Alzas tus manos y golpeas una y otra vez el rostro de tu hermano. La sangre salpica tus brazos. 
+
+La lluvia empieza a caer con fuerza. Te alejas del campo, dejando allí tu particular ofrenda. Deambulas por la tierra hasta que un rayo de luz emerge de entre las nubes, paralizándote...
+
+Del cielo surge una potente voz que te pregunta incesante: "¿Dónde está tu hermano?"
+
+Respondes: "No lo sé, ¿acaso soy yo el guardián de mi hermano?"
+
+La voz desde el cielo grita: "¿Qué has hecho? La sangre de tu hermano me está gritando desde la tierra. Por eso te maldice esa tierra que ha abierto sus fauces para recibir de tus manos la sangre de tu hermano."
+
+Una lluvia negra de ceniza y roja de sangre brota del cielo, arrastrándote al negro abismo. Caes y caes durante siglos, sumiéndote en la más absoluta oscuridad... una oscuridad sólo soportable por la bella sonrisa de tu musa, que te recoge en sus brazos y te lleva de nuevo frente al libro, que espera tu escritura. 
+
+"Todo acaba. Todo comienza."
+
+En la oscuridad
+Sentado en algún punto de apoyo invisible en una oscuridad infinita, tu mirada se clava en el libro de páginas eternas que escribes con la ayuda de tu musa, acompañante fiel en tu pena y en tu pesar.
+
+La musa espera que escribas en el libro del destino.
+
+>escribe en el libro
+Escribes un verso sobre "en el libro"...
+
+Otro verso ininteligible...
+
+>mira musa
+Tan bella como oscura, irradia una rojiza luz maléfica que envuelve tu ser y tu libro, impregnando las páginas con sangre.
+
+Su visión te produce una extraña reacción que ahora conoces muy bien... comienza tu inspiración.
+
+Primer acto
+Apareces de entre la bruma en un campo verde y puro. Estás cansado y te tumbas en la fresca hierba contemplando un imposible atardecer. El paisaje bucólico se ve aderezado por la aparición de un rebaño de ovejas.
+
+>dormir
+Plácidamente te recuestas y cierras los ojos, sumiéndote de nuevo en la imperante oscuridad que te envuelve siempre que tu musa está contigo.
+
+En tus manos está la pluma y delante otra página en blanco del libro.
+
+En la oscuridad
+Sentado en algún punto de apoyo invisible en una oscuridad infinita, tu mirada se clava en el libro de páginas eternas que escribes con la ayuda de tu musa, acompañante fiel en tu pena y en tu pesar.
+
+La musa espera que escribas en el libro del destino.
+
+>
+¿Perdón?
+
+>m
+En la oscuridad
+Sentado en algún punto de apoyo invisible en una oscuridad infinita, tu mirada se clava en el libro de páginas eternas que escribes con la ayuda de tu musa, acompañante fiel en tu pena y en tu pesar.
+
+La musa espera que escribas en el libro del destino.
+
+>muerete
+No entendí esa frase.
+
+>muerete
+No entendí esa frase.
+
+>i
+ Llevas:
+  una pluma
+
+>tragate la pluma
+Intenta de nuevo, porque sólo te pude entender: tragar te.
+
+>clávate la pluma
+No entendí esa frase.
+
+>atacar musa
+"He dicho que me mires...", te ordena la musa.
+
+No puedes dejar de mirar sus ojos...
+
+Tan bella como oscura, irradia una rojiza luz maléfica que envuelve tu ser y tu libro, impregnando las páginas con sangre.
+
+La musa espera que escribas en el libro del destino.
+
+>mirar musa
+Tan bella como oscura, irradia una rojiza luz maléfica que envuelve tu ser y tu libro, impregnando las páginas con sangre.
+
+La musa espera que escribas en el libro del destino.
+
+>cerrar libro
+No es algo que pueda cerrarse.
+
+>tirar libro
+El libro ya está allí.
+
+>m
+En la oscuridad
+Sentado en algún punto de apoyo invisible en una oscuridad infinita, tu mirada se clava en el libro de páginas eternas que escribes con la ayuda de tu musa, acompañante fiel en tu pena y en tu pesar.
+
+La musa espera que escribas en el libro del destino.
+
+>tirar libro
+El libro ya está allí.
+
+>m
+En la oscuridad
+Sentado en algún punto de apoyo invisible en una oscuridad infinita, tu mirada se clava en el libro de páginas eternas que escribes con la ayuda de tu musa, acompañante fiel en tu pena y en tu pesar.
+
+La musa espera que escribas en el libro del destino.
+
+>ayuda
+ > Introducción a La musa
+   Instrucciones para Jugar
+   Pistas
+   Opciones
+   Contactar con el autor
+   Poema de Roberto Menéndez
+
+   Introducción a La musa
+ > Instrucciones para Jugar
+   Pistas
+   Opciones
+   Contactar con el autor
+   Poema de Roberto Menéndez
+   Introducción a La musa
+ > Instrucciones para Jugar
+   Pistas
+   Opciones
+   Contactar con el autor
+   Poema de Roberto Menéndez
+
+   Introducción a La musa
+   Instrucciones para Jugar
+ > Pistas
+   Opciones
+   Contactar con el autor
+   Poema de Roberto Menéndez
+   Introducción a La musa
+   Instrucciones para Jugar
+ > Pistas
+   Opciones
+   Contactar con el autor
+   Poema de Roberto Menéndez
+
+ > ¿Qué tengo que escribir en el libro?
+   ¿Cómo puedo resolver los actos?
+   ¿Cómo puedo acabar con la musa?
+
+   ¿Qué tengo que escribir en el libro?
+ > ¿Cómo puedo resolver los actos?
+   ¿Cómo puedo acabar con la musa?
+   ¿Qué tengo que escribir en el libro?
+ > ¿Cómo puedo resolver los actos?
+   ¿Cómo puedo acabar con la musa?
+
+   ¿Qué tengo que escribir en el libro?
+   ¿Cómo puedo resolver los actos?
+ > ¿Cómo puedo acabar con la musa?
+   ¿Qué tengo que escribir en el libro?
+   ¿Cómo puedo resolver los actos?
+ > ¿Cómo puedo acabar con la musa?
+
+1/8: La primera pista es que no vas a acabar con la musa.
+
+Pulsa la tecla espaciadora para retornar al menú o H para enseñar otra pista.
+   ¿Qué tengo que escribir en el libro?
+   ¿Cómo puedo resolver los actos?
+ > ¿Cómo puedo acabar con la musa?
+   ¿Qué tengo que escribir en el libro?
+   ¿Cómo puedo resolver los actos?
+ > ¿Cómo puedo acabar con la musa?
+
+1/8: La primera pista es que no vas a acabar con la musa.
+
+Pulsa la tecla espaciadora para retornar al menú o H para enseñar otra pista.
+   ¿Qué tengo que escribir en el libro?
+   ¿Cómo puedo resolver los actos?
+ > ¿Cómo puedo acabar con la musa?
+   ¿Qué tengo que escribir en el libro?
+   ¿Cómo puedo resolver los actos?
+ > ¿Cómo puedo acabar con la musa?
+
+1/8: La primera pista es que no vas a acabar con la musa.
+
+Pulsa la tecla espaciadora para retornar al menú o H para enseñar otra pista.
+1/8: La primera pista es que no vas a acabar con la musa.
+
+2/8: Aún así piensas que puedes librarte de ella. Tal vez hay una manera...
+
+Pulsa la tecla espaciadora para retornar al menú o H para desvelar otra pista.
+1/8: La primera pista es que no vas a acabar con la musa.
+
+2/8: Aún así piensas que puedes librarte de ella. Tal vez hay una manera...
+
+3/8: Tras cada inspiración recuerdas más cosas de tus actos del pasado.
+
+Pulsa la tecla espaciadora para retornar al menú o H para desvelar otra pista.
+1/8: La primera pista es que no vas a acabar con la musa.
+
+2/8: Aún así piensas que puedes librarte de ella. Tal vez hay una manera...
+
+3/8: Tras cada inspiración recuerdas más cosas de tus actos del pasado.
+
+4/8: Escribe sobre tus actos.
+
+Pulsa la tecla espaciadora para retornar al menú o H para desvelar otra pista.
+1/8: La primera pista es que no vas a acabar con la musa.
+
+2/8: Aún así piensas que puedes librarte de ella. Tal vez hay una manera...
+
+3/8: Tras cada inspiración recuerdas más cosas de tus actos del pasado.
+
+4/8: Escribe sobre tus actos.
+
+5/8: Esos actos son ruines.
+
+Pulsa la tecla espaciadora para retornar al menú o H para desvelar otra pista.
+1/8: La primera pista es que no vas a acabar con la musa.
+
+2/8: Aún así piensas que puedes librarte de ella. Tal vez hay una manera...
+
+3/8: Tras cada inspiración recuerdas más cosas de tus actos del pasado.
+
+4/8: Escribe sobre tus actos.
+
+5/8: Esos actos son ruines.
+
+6/8: Esos actos son malvados.
+
+Pulsa la tecla espaciadora para retornar al menú o H para desvelar otra pista.
+1/8: La primera pista es que no vas a acabar con la musa.
+
+2/8: Aún así piensas que puedes librarte de ella. Tal vez hay una manera...
+
+3/8: Tras cada inspiración recuerdas más cosas de tus actos del pasado.
+
+4/8: Escribe sobre tus actos.
+
+5/8: Esos actos son ruines.
+
+6/8: Esos actos son malvados.
+
+7/8: Esos actos son los pecados originales.
+
+Pulsa la tecla espaciadora para retornar al menú o H para desvelar otra pista.
+1/8: La primera pista es que no vas a acabar con la musa.
+
+2/8: Aún así piensas que puedes librarte de ella. Tal vez hay una manera...
+
+3/8: Tras cada inspiración recuerdas más cosas de tus actos del pasado.
+
+4/8: Escribe sobre tus actos.
+
+5/8: Esos actos son ruines.
+
+6/8: Esos actos son malvados.
+
+7/8: Esos actos son los pecados originales.
+
+8/8: ¿Qué podemos hacer para que Él nos perdone?
+
+Pulsa la tecla espaciadora para retornar al menú.
+1/8: La primera pista es que no vas a acabar con la musa.
+
+2/8: Aún así piensas que puedes librarte de ella. Tal vez hay una manera...
+
+3/8: Tras cada inspiración recuerdas más cosas de tus actos del pasado.
+
+4/8: Escribe sobre tus actos.
+
+5/8: Esos actos son ruines.
+
+6/8: Esos actos son malvados.
+
+7/8: Esos actos son los pecados originales.
+
+8/8: ¿Qué podemos hacer para que Él nos perdone?
+
+Pulsa la tecla espaciadora para retornar al menú.
+1/8: La primera pista es que no vas a acabar con la musa.
+
+2/8: Aún así piensas que puedes librarte de ella. Tal vez hay una manera...
+
+3/8: Tras cada inspiración recuerdas más cosas de tus actos del pasado.
+
+4/8: Escribe sobre tus actos.
+
+5/8: Esos actos son ruines.
+
+6/8: Esos actos son malvados.
+
+7/8: Esos actos son los pecados originales.
+
+8/8: ¿Qué podemos hacer para que Él nos perdone?
+
+Pulsa la tecla espaciadora para retornar al menú.
+1/8: La primera pista es que no vas a acabar con la musa.
+
+2/8: Aún así piensas que puedes librarte de ella. Tal vez hay una manera...
+
+3/8: Tras cada inspiración recuerdas más cosas de tus actos del pasado.
+
+4/8: Escribe sobre tus actos.
+
+5/8: Esos actos son ruines.
+
+6/8: Esos actos son malvados.
+
+7/8: Esos actos son los pecados originales.
+
+8/8: ¿Qué podemos hacer para que Él nos perdone?
+
+Pulsa la tecla espaciadora para retornar al menú.
+1/8: La primera pista es que no vas a acabar con la musa.
+
+2/8: Aún así piensas que puedes librarte de ella. Tal vez hay una manera...
+
+3/8: Tras cada inspiración recuerdas más cosas de tus actos del pasado.
+
+4/8: Escribe sobre tus actos.
+
+5/8: Esos actos son ruines.
+
+6/8: Esos actos son malvados.
+
+7/8: Esos actos son los pecados originales.
+
+8/8: ¿Qué podemos hacer para que Él nos perdone?
+
+Pulsa la tecla espaciadora para retornar al menú.
+1/8: La primera pista es que no vas a acabar con la musa.
+
+2/8: Aún así piensas que puedes librarte de ella. Tal vez hay una manera...
+
+3/8: Tras cada inspiración recuerdas más cosas de tus actos del pasado.
+
+4/8: Escribe sobre tus actos.
+
+5/8: Esos actos son ruines.
+
+6/8: Esos actos son malvados.
+
+7/8: Esos actos son los pecados originales.
+
+8/8: ¿Qué podemos hacer para que Él nos perdone?
+
+Pulsa la tecla espaciadora para retornar al menú.
+1/8: La primera pista es que no vas a acabar con la musa.
+
+2/8: Aún así piensas que puedes librarte de ella. Tal vez hay una manera...
+
+3/8: Tras cada inspiración recuerdas más cosas de tus actos del pasado.
+
+4/8: Escribe sobre tus actos.
+
+5/8: Esos actos son ruines.
+
+6/8: Esos actos son malvados.
+
+7/8: Esos actos son los pecados originales.
+
+8/8: ¿Qué podemos hacer para que Él nos perdone?
+
+Pulsa la tecla espaciadora para retornar al menú.
+1/8: La primera pista es que no vas a acabar con la musa.
+
+2/8: Aún así piensas que puedes librarte de ella. Tal vez hay una manera...
+
+3/8: Tras cada inspiración recuerdas más cosas de tus actos del pasado.
+
+4/8: Escribe sobre tus actos.
+
+5/8: Esos actos son ruines.
+
+6/8: Esos actos son malvados.
+
+7/8: Esos actos son los pecados originales.
+
+8/8: ¿Qué podemos hacer para que Él nos perdone?
+
+Pulsa la tecla espaciadora para retornar al menú.
+1/8: La primera pista es que no vas a acabar con la musa.
+
+2/8: Aún así piensas que puedes librarte de ella. Tal vez hay una manera...
+
+3/8: Tras cada inspiración recuerdas más cosas de tus actos del pasado.
+
+4/8: Escribe sobre tus actos.
+
+5/8: Esos actos son ruines.
+
+6/8: Esos actos son malvados.
+
+7/8: Esos actos son los pecados originales.
+
+8/8: ¿Qué podemos hacer para que Él nos perdone?
+
+Pulsa la tecla espaciadora para retornar al menú.
+1/8: La primera pista es que no vas a acabar con la musa.
+
+2/8: Aún así piensas que puedes librarte de ella. Tal vez hay una manera...
+
+3/8: Tras cada inspiración recuerdas más cosas de tus actos del pasado.
+
+4/8: Escribe sobre tus actos.
+
+5/8: Esos actos son ruines.
+
+6/8: Esos actos son malvados.
+
+7/8: Esos actos son los pecados originales.
+
+8/8: ¿Qué podemos hacer para que Él nos perdone?
+
+Pulsa la tecla espaciadora para retornar al menú.
+1/8: La primera pista es que no vas a acabar con la musa.
+
+2/8: Aún así piensas que puedes librarte de ella. Tal vez hay una manera...
+
+3/8: Tras cada inspiración recuerdas más cosas de tus actos del pasado.
+
+4/8: Escribe sobre tus actos.
+
+5/8: Esos actos son ruines.
+
+6/8: Esos actos son malvados.
+
+7/8: Esos actos son los pecados originales.
+
+8/8: ¿Qué podemos hacer para que Él nos perdone?
+
+Pulsa la tecla espaciadora para retornar al menú.
+1/8: La primera pista es que no vas a acabar con la musa.
+
+2/8: Aún así piensas que puedes librarte de ella. Tal vez hay una manera...
+
+3/8: Tras cada inspiración recuerdas más cosas de tus actos del pasado.
+
+4/8: Escribe sobre tus actos.
+
+5/8: Esos actos son ruines.
+
+6/8: Esos actos son malvados.
+
+7/8: Esos actos son los pecados originales.
+
+8/8: ¿Qué podemos hacer para que Él nos perdone?
+
+Pulsa la tecla espaciadora para retornar al menú.
+1/8: La primera pista es que no vas a acabar con la musa.
+
+2/8: Aún así piensas que puedes librarte de ella. Tal vez hay una manera...
+
+3/8: Tras cada inspiración recuerdas más cosas de tus actos del pasado.
+
+4/8: Escribe sobre tus actos.
+
+5/8: Esos actos son ruines.
+
+6/8: Esos actos son malvados.
+
+7/8: Esos actos son los pecados originales.
+
+8/8: ¿Qué podemos hacer para que Él nos perdone?
+
+Pulsa la tecla espaciadora para retornar al menú.
+1/8: La primera pista es que no vas a acabar con la musa.
+
+2/8: Aún así piensas que puedes librarte de ella. Tal vez hay una manera...
+
+3/8: Tras cada inspiración recuerdas más cosas de tus actos del pasado.
+
+4/8: Escribe sobre tus actos.
+
+5/8: Esos actos son ruines.
+
+6/8: Esos actos son malvados.
+
+7/8: Esos actos son los pecados originales.
+
+8/8: ¿Qué podemos hacer para que Él nos perdone?
+
+Pulsa la tecla espaciadora para retornar al menú.
+1/8: La primera pista es que no vas a acabar con la musa.
+
+2/8: Aún así piensas que puedes librarte de ella. Tal vez hay una manera...
+
+3/8: Tras cada inspiración recuerdas más cosas de tus actos del pasado.
+
+4/8: Escribe sobre tus actos.
+
+5/8: Esos actos son ruines.
+
+6/8: Esos actos son malvados.
+
+7/8: Esos actos son los pecados originales.
+
+8/8: ¿Qué podemos hacer para que Él nos perdone?
+
+Pulsa la tecla espaciadora para retornar al menú.
+1/8: La primera pista es que no vas a acabar con la musa.
+
+2/8: Aún así piensas que puedes librarte de ella. Tal vez hay una manera...
+
+3/8: Tras cada inspiración recuerdas más cosas de tus actos del pasado.
+
+4/8: Escribe sobre tus actos.
+
+5/8: Esos actos son ruines.
+
+6/8: Esos actos son malvados.
+
+7/8: Esos actos son los pecados originales.
+
+8/8: ¿Qué podemos hacer para que Él nos perdone?
+
+Pulsa la tecla espaciadora para retornar al menú.
+   ¿Qué tengo que escribir en el libro?
+   ¿Cómo puedo resolver los actos?
+ > ¿Cómo puedo acabar con la musa?
+   ¿Qué tengo que escribir en el libro?
+   ¿Cómo puedo resolver los actos?
+ > ¿Cómo puedo acabar con la musa?
+
+1/8: La primera pista es que no vas a acabar con la musa.
+
+2/8: Aún así piensas que puedes librarte de ella. Tal vez hay una manera...
+
+3/8: Tras cada inspiración recuerdas más cosas de tus actos del pasado.
+
+4/8: Escribe sobre tus actos.
+
+5/8: Esos actos son ruines.
+
+6/8: Esos actos son malvados.
+
+7/8: Esos actos son los pecados originales.
+
+8/8: ¿Qué podemos hacer para que Él nos perdone?
+
+Pulsa la tecla espaciadora para retornar al menú o H para enseñar otra pista.
+   ¿Qué tengo que escribir en el libro?
+   ¿Cómo puedo resolver los actos?
+ > ¿Cómo puedo acabar con la musa?
+   ¿Qué tengo que escribir en el libro?
+   ¿Cómo puedo resolver los actos?
+ > ¿Cómo puedo acabar con la musa?
+
+1/8: La primera pista es que no vas a acabar con la musa.
+
+2/8: Aún así piensas que puedes librarte de ella. Tal vez hay una manera...
+
+3/8: Tras cada inspiración recuerdas más cosas de tus actos del pasado.
+
+4/8: Escribe sobre tus actos.
+
+5/8: Esos actos son ruines.
+
+6/8: Esos actos son malvados.
+
+7/8: Esos actos son los pecados originales.
+
+8/8: ¿Qué podemos hacer para que Él nos perdone?
+
+Pulsa la tecla espaciadora para retornar al menú o H para enseñar otra pista.
+   ¿Qué tengo que escribir en el libro?
+   ¿Cómo puedo resolver los actos?
+ > ¿Cómo puedo acabar con la musa?
+   ¿Qué tengo que escribir en el libro?
+   ¿Cómo puedo resolver los actos?
+ > ¿Cómo puedo acabar con la musa?
+
+   Introducción a La musa
+   Instrucciones para Jugar
+ > Pistas
+   Opciones
+   Contactar con el autor
+   Poema de Roberto Menéndez
+
+En la oscuridad
+Sentado en algún punto de apoyo invisible en una oscuridad infinita, tu mirada se clava en el libro de páginas eternas que escribes con la ayuda de tu musa, acompañante fiel en tu pena y en tu pesar.
+
+La musa espera que escribas en el libro del destino.
+
+>rezar
+Es un dios misericordioso, y tan solo tenías que pedir misericordia.
+
+
+
+Recuerdas tu primer pecado... y luego todos los demás.
+
+Comienzas a recordarlo todo...
+
+Recuerdas quién eres y la oscuridad se resquebraja. 
+
+Empieza a girar todo a tu alrededor... y recuerdas las palabras... 
+
+"Mi culpa es demasiado grande para soportarla. Hoy me destierras de aquí; tendré que ocultarme de ti, andando errante y perdido por el mundo; el que tropiece conmigo me matará."
+
+El Señor te dijo: "El que mate a Caín lo pagará siete veces."
+
+Y el Señor puso una señal a Caín para que, si alguien tropezase con él, no le matara.
+
+De nuevo la mima voz, ahora, retruena en tu cabeza: "Ahora ya has pedido perdón, puedes descansar en paz, después de tantos años, después de tantos pecados. Tu castigo llega a su fin, camina por fin libre, hijo mio."
+
+Tu espíritu que alguna vez fue celestial se escapa de entre los muros del castigo, dejando atrás a la bella y perversa Lilith, tu musa, cuyas lágrimas por tu ausencia te salpican en el rostro, a medida que te desvaneces en el éter para no volver a verla jamás.
+
+
+
+    *** Fin ***
+
+
+En este relato, tu puntuación ha sido 7 de un total de 7, en 166 turno.
+
+
+¿Quieres REINICIAR, RECUPERAR un juego guardado, TERMINAR o hacer UNDO del último comando?
+> reiniciar

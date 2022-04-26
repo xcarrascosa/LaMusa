@@ -10,16 +10,22 @@
             <author>Xavier Carrascosa</author>
             <headline>Inspiración, pecado y romanticismo</headline>
             <genre>Romance</genre>
-            <firstpublished>2020</firstpublished>
+            <firstpublished>2022</firstpublished>
             <description>El pecado acecha a la puerta; y aunque viene por ti, tú puedes dominarlo. Confusa, que sólo tú eres mi musa. ¿Serás capaz de obtener suficiente inspiración de tu musa como para resultar vencedor de la aventura?</description>
             <language>es</language>
             <group>Inform</group>
         </bibliographic>
+        <cover>
+            <format>jpg</format>
+            <height>960</height>
+            <width>960</width>
+            <description>La musa</description>
+        </cover>
         <releases>
             <attached>
                 <release>
-                    <releasedate>2020-05-22</releasedate>
-                    <version>2</version>
+                    <releasedate>2022-04-26</releasedate>
+                    <version>3</version>
                     <compiler>Inform 7</compiler>
                     <compilerversion>6M62</compilerversion>
                 </release>
@@ -28,12 +34,13 @@
         <colophon>
             <generator>Inform 7</generator>
             <generatorversion>6M62</generatorversion>
-            <originated>2020-05-22</originated>
+            <originated>2022-04-26</originated>
         </colophon>
         <glulx>
-            <serial>200522</serial>
-            <release>2</release>
+            <serial>220426</serial>
+            <release>3</release>
             <compiler>Inform 7 build 6M62</compiler>
+            <coverpicture>1</coverpicture>
         </glulx>
     </story>
 </ifindex>
