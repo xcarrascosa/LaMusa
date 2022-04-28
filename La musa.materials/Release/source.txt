@@ -112,18 +112,22 @@ Before going: terminate the conversation.
 [Escribir una palabra en el libro]
 
 Understand "escribe [text] en [something]" as writing it in.
-Understand "escribi [text] en [something]" as writing it in.
+Understand "escribir [text] en [something]" as writing it in.
 Understand "escribe [text]" as writing it in.
-Understand "escribi [text]" as writing it in.
+Understand "escribir [text]" as writing it in.
 Understand "escribe sobre [text]" as writing it in.
 Understand "escribir sobre [text]" as writing it in.
+Understand "escribe en libro [text]" as writing it in.
+Understand "escribir en libro [text]" as writing it in.
+Understand "escribe un verso sobre [text]" as writing it in.
+Understand "escribir un verso sobre [text]" as writing it in.
 Writing it in is an action applying to a topic and one thing.
 Rule for supplying a missing second noun while writing:
 	if the libro is in location and the player carries the pluma, now the second noun is the libro;
 	otherwise:
 		if the pluma is not carried by the player:
 			now the second noun is the player;
-			say "'[italic type]Coge tu pluma y escribe algo en el libro que te ofrezco'[roman type], dice la musa.[paragraph break]";
+			say "'[italic type]Amado mío...'[roman type], dice la musa.[paragraph break]" instead;
 		else if the libro is not in the location:
 			now the second noun is the player;
 			say "Debo escribir en el libro que me ofrece la musa. Aquí no es el lugar.".
@@ -133,38 +137,25 @@ Check writing it in:
 		say "Escribes un verso sobre [italic type]'[the topic understood]'...[roman type][paragraph break]";
 		continue the action;
 	else if the musa is complacida:
-		say "[italic type]'Ya no hace falta que escribas nada más[roman type], dice la musa.'[paragraph break]".
+		say "[italic type]'Ya no hace falta que escribas nada más[roman type], dice la musa.'[paragraph break]";
+	otherwise:
+		say "'[italic type]Coge tu pluma y escribe algo en el libro que te ofrezco'[roman type].[paragraph break]".
 
 
 [Escribir nada]
 
 Writenothing is an action applying to nothing.
-Understand "escribe", "escribi" as Writenothing.
+Understand "escribe", "escribir", "escribir en en libro del destino", "escribe con pluma", "escribe con la pluma", "escribe en libro", "escribir en libro", "escribe verso en libro", "escribir verso en libro", "escribe en el libro", "escribir verso en libro", "escribe verso en el libro", "escribir en el libro", "escribe en libro con pluma", "escribir en libro con pluma", "escribe en el libro con la pluma", "escribir en el libro con la pluma"  as Writenothing.
 Check Writenothing: 
 	if the player carries the pluma and the location is En la oscuridad and the musa is espectante:
-		say "[fixed letter spacing]Para escribir en el libro pon 'escribe TEXTO' o bien 'escribe TEXTO en libro'[variable letter spacing][paragraph break]";
+		say "[fixed letter spacing]Para escribir en el libro pon 'escribe PALABRA' o bien 'escribe PALABRA en libro'[variable letter spacing][paragraph break]";
 	else if the musa is complacida:
 		say "[italic type]'Ya no hace falta que escribas nada más[roman type], dice la musa.'[paragraph break]";
 	else if the location is not En la oscuridad:
 		say "Debo escribir en el libro que me ofrece la musa. Aquí no es el lugar.";
 	otherwise:
 		say "'[italic type]Coge tu pluma y escribe algo en el libro que te ofrezco'[roman type], dice la musa.[paragraph break]".
-		
-[Escribir libro]
 
-Writenoun is an action applying to one thing.
-Understand "escribe [something]", "escribi [something]" as Writenoun.
-Check Writenoun: 
-	if the player carries the pluma and the location is En la oscuridad and the musa is espectante:
-		say "[fixed letter spacing]Para escribir en el libro pon 'escribe TEXTO' o bien 'escribe TEXTO en libro'[variable letter spacing][paragraph break]";
-	else if the noun is not the libro:
-		say "[fixed letter spacing]Para escribir en el libro pon 'escribe TEXTO' o bien 'escribe TEXTO en libro'[variable letter spacing][paragraph break]";
-	else if the musa is complacida:
-		say "[italic type]'Ya no hace falta que escribas nada más[roman type], dice la musa.'[paragraph break]";
-	else if the location is not En la oscuridad:
-		say "Debo escribir en el libro que me ofrece la musa. Aquí no es el lugar.";
-	otherwise:
-		say "'[italic type]Coge tu pluma y escribe algo en el libro que te ofrezco'[roman type], dice la musa.[paragraph break]".
 
 [Rezar]
 Rezaring is an action applying to nothing. Understand "reza", "ora", "suplica" as rezaring.
@@ -299,7 +290,7 @@ Chapter 1 - La musa
 
 The musa (f) is here. The musa is a woman. "[if espectante][line break]La musa espera que escribas en el libro del destino.[otherwise]No puedes dejar de mirar a tu musa."
 The musa can be complacida or espectante. The musa is espectante.
-The description of the musa is "[line break]Tan bella como oscura, irradia una rojiza luz maléfica que envuelve tu ser y tu libro, impregnando las páginas con sangre.". Understand "luz", "mujer", "lilith" as the musa.
+The description of the musa is "[line break]Tan bella como oscura, irradia una rojiza luz maléfica que envuelve tu ser y tu libro, impregnando las páginas con sangre.". Understand "luz", "mujer", "lilith", "espalda", "cuerpo", "figura", "pelo", "cabello" as the musa.
 Some ojos (m) are part of the musa. 
 Understand "mirada", "ojo", "sangre", "ceniza", "cenizas", "oscuridad", "punto", "apoyo" as the ojos.
 
@@ -427,15 +418,11 @@ Carry out writing it in:
 		if the topic understood matches "palabras/tonterias/poema/relato/cuento/versos/amado/follar":
 			say "A tu musa también le place que escribas vaguedades, pues alivia en parte tu maldición y tu pesar.[paragraph break]";
 			rule succeeds;
-		if the topic understood matches "ayuda/auxilio/socorro":
+		if the topic understood matches "ayuda/auxilio/socorro/inspiracion":
 			say "La musa acaricia tu rostro. [italic type]'No necesitas ayuda, tan solo mírame...'[roman type][paragraph break]";
 			rule succeeds;
-		if the topic understood matches "en libro":
-			say "[fixed letter spacing]Para escribir en el libro pon 'ESCRIBE [italic type]texto[roman type]', 'ESCRIBE [italic type]texto[roman type] EN LIBRO' o bien 'ESCRIBE EN LIBRO [italic type]texto[roman type]'.[paragraph break]Teclea 'AYUDA' para más instrucciones.[variable letter spacing][paragraph break]";
-			now the musa is espectante;
-			rule succeeds;
-		if the topic understood matches "libro/texto/verso/algo":
-			say "[fixed letter spacing]Para escribir en el libro pon 'ESCRIBE [italic type]texto[roman type]', 'ESCRIBE [italic type]texto[roman type] EN LIBRO' o bien 'ESCRIBE EN LIBRO [italic type]texto[roman type]'.[paragraph break]Teclea 'AYUDA' para más instrucciones.[variable letter spacing][paragraph break]";
+		if the topic understood matches "libro/texto/verso/algo/palabra":
+			say "[italic type]'¿Acaso no estás inspirado, amado mío?'[roman type], tu musa te da la espalda.[paragraph break][italic type]'Vuelve a intentarlo...'[roman type][paragraph break][fixed letter spacing]Para escribir en el libro pon 'ESCRIBE [italic type]PALABRA[roman type]', o bien 'ESCRIBE [italic type]PALABRA[roman type] EN LIBRO'.[paragraph break]Teclea 'AYUDA' para más instrucciones.[variable letter spacing][paragraph break]";
 			now the musa is espectante;
 			rule succeeds;
 		if the topic understood matches "muerte/sacrificio/honor/soldado/guerra/mercader/castigo":
@@ -456,7 +443,7 @@ Carry out writing it in:
 		if the topic understood matches "musa/lilith":
 			say "La musa sonrie al ver que tus versos hablan sobre ella. Te abraza con su oscuridad y te envuelven las cenizas...[paragraph break][italic type]'Gracias por tus versos, amado mío'[roman type], dice tu musa.[paragraph break]";
 			rule succeeds;
-		if the topic understood matches "espada/doncella/violacion/banquete/diamante":
+		if the topic understood matches "espada/doncella/violacion/banquete/diamante/espalda":
 			say "[italic type]'No te has de sentir culpable'[roman type], susurra la musa.[paragraph break]";
 			rule succeeds;
 		if the topic understood matches "ternero/asesinato/venganza/piedra/canticos/sangre/visceras":
