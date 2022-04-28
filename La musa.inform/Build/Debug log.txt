@@ -193,8 +193,8 @@ Phase XIII ... Compilation now complete
 -----------------------------------------------------
 
 CAT "La musa"
-Total of 189 files written as streams.
-CPU time: 279 centiseconds
+Total of 194 files written as streams.
+CPU time: 286 centiseconds
 
 
 That concludes the debugging log from this run of Inform.
