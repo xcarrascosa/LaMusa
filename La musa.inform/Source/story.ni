@@ -186,6 +186,10 @@ Report remembering: say "Tratas de recordar, pero ha pasado ya tanto tiempo...[p
 [Pensar]
 Instead of thinking, say "¿Como puedo escapar de esta espiral de odio y destrucción?[paragraph break][italic type]'¿En qué piensas?'[roman type], pregunta la musa.[paragraph break]".
 
+[Liberar / perdonar]
+Forgiving is an action applying to one thing.
+Understand "libera [someone]", "perdona [someone]", "liberar [someone]", "perdonar [someone]", "libera a [someone]", "liberar a [someone]", "perdona a [someone]", "perdonar a [someone]", "rescata [someone]", "rescatar [someone]", "rescata a [someone]", "rescatar a [someone]", "desata [someone]", "desatar [someone]", "desata a [someone]", "desatar a [someone]", "deja en paz a [someone]", "dejar en paz a[someone]", "olvida [someone]",  "olvidar [someone]",  "olvida a [someone]",  "olvidar a [someone]"  as forgiving.
+Report forgiving: say "[italic type]'Tú no eres así, tú nunca perdonarías a [the noun]... ¡Haz lo que tienes que hacer!'[roman type], dice la musa.".
 
 [Fornicar]
 Fucking is an action applying to one thing.
@@ -366,6 +370,8 @@ Instead of throwing the piedra at the musa:
 Instead of attacking the ojos, try attacking the musa.
 
 Instead of attacking the presencia, say "Notas su presencia, pero no está aquí físicamente.".
+
+Instead of forgiving or dropping the musa, try attacking the musa.
 
 Section 3 - Hablar con la musa
 
@@ -664,6 +670,7 @@ After quipping when the current quip is azotadle, enable the azotadle quip.
 	
 Instead of pulling or pushing or attacking or waving or kissing or touching or smelling the ajusticiado, say "No vale la pena, ya está muerto en vida.[paragraph break]";
 
+Instead of forgiving or dropping the ajusticiado, say "[italic type]'Nunca harías eso... ¿acaso no tienes hambre, amado mío?'[roman type], te susurra la musa."
 
 Chapter 3 - Tercer acto
 
@@ -697,11 +704,20 @@ The description of the espada is "Una ensangrentada espada.".
 Instead of taking the espada:
 	now the espada is portable;
 	now the player carries the espada;
-	say "El hombre te suplica... [italic type]'¡No! ¡Por favor, no!'[roman type]."
+	say "El hombre te suplica... [italic type]'¡No! ¡Por favor, no!'[roman type].".
+	
+Instead of giving the espada to the soldado:
+	now the espada is portable;
+	now the player carries the espada;
+	say "[italic type]'¿La quieres, miserable?'[roman type] Sonríes y miras a tus guerreros...".
+	
+Instead of showing the espada to the soldado, try giving the espada to the soldado.
 
 Instead of taking or pulling or pushing or waving or attacking the heridas, say "Déjalas, tampoco quieres mancharte tanto de sangre.".
 
 Instead of taking or pulling or pushing or waving or attacking the mano, say "Pisas el trozo de la mano derecha que le falta, tirado ahí en el campo de batalla en un charco de sangre. Sonríes. El hombre se echa a llorar.".
+
+Instead of forgiving or dropping the soldado, say "[italic type]'¿No sería más divertido matarlo con su propia espada?'[roman type], te susurra la musa."
 
 
 [Hablar con el soldado]
@@ -802,6 +818,13 @@ Instead of taking the cepillo:
 	now the description of the cepillo is "Es el cepillo con el que la doncella suele sacudirse el cabello.";
 	now the player carries the cepillo;
 	say "La muchacha ahoga un sollozo... [italic type]'No he terminado de arreglarme... mi señor'[roman type], dice la doncella."
+	
+Instead of giving the cepillo to the doncella:
+	now the cepillo is portable;
+	now the player carries the cepillo;
+	say "[italic type]'Tómalo, tómalo si quieres...'[roman type][paragraph break]La doncella permanece rígida, no se atreve a coger el cepillo.".
+	
+Instead of showing the cepillo to the doncella, try giving the cepillo to the doncella.
 
 Instead of touching or pulling or pushing or waving or attacking the cabello, try taking the enredos.
 Instead of taking or touching or pulling or pushing or waving or attacking the enredos, say "Le estiras del cabello a la doncella. Ella apenas opone resistencia.[paragraph break]".
@@ -902,6 +925,7 @@ The description of the telas is "Sin duda sus ropas están tejidas con las telas
 
 Instead of talking to the mercader, say "[if the mercader is vivo][italic type]'¡Silencio! No queremos que se despierte...'[roman type], dice tu musa.[paragraph break][otherwise][italic type]'Poco tiene ya que contar... céntrate en el diamante...'[roman type], dice tu musa.[paragraph break]".
 
+Instead of forgiving or dropping the mercader, say "[italic type]'Oh, vamos... esto lo has hecho ya muchas veces. ¡Hazlo!'[roman type], te susurra la musa."
 
 Section 3 - Matar y robar
 
@@ -979,6 +1003,9 @@ Instead of pulling or pushing or waving or attacking the ternero, say "El terner
 
 Instead of eating or drinking or tasting the ternero, say "[italic type]'¿Acaso no son sus vísceras, su corazón y su sangre lo que deseas?'[roman type], pregunta la musa.".
 
+Instead of forgiving or dropping the ternero, say "[italic type]'¡No! ¡Debes culminar el ritual con su sangre!'[roman type], te susurra la musa.".
+
+Instead of talking to the ternero, say "[italic type]'El animal está muerto, amado mío. Termina el ritual.'[roman type], te susurra la musa.".
 
 Section 2 - El altar
 
@@ -989,7 +1016,7 @@ Some piedras (f), a piedra (f) and the ternero (m) are part of the altar.
 
 The description of the piedra is "Una piedra maldita.".
 
-The description of the ternero is "Un ternero degollado, forma parte del ritual. [if the player is in the altar]Los fieles estan espectantes y sus cánticos se aceleran.[otherwise]Los fieles esperan a que empieces el ritual.". 
+The ternero is an animal. The description of the ternero is "Un ternero degollado, forma parte del ritual. [if the player is in the altar]Los fieles estan espectantes y sus cánticos se aceleran.[otherwise]Los fieles esperan a que empieces el ritual.". 
 
 Some visceras (f), the corazon (m) and the sangre (f) are edible and part of the ternero. The printed name of the visceras is "vísceras". The printed name of the corazon is "corazón".
 
@@ -1097,6 +1124,8 @@ After quipping when the current quip is mi-ofrenda:
 	terminate the conversation.
 
 Instead of pulling or pushing or waving or kissing or touching or smelling the hermano, say "[italic type]'¿Para qué te he dado esa piedra? ¡Vamos! ¡Lánzasela a tu hermano!'[roman type], dice la musa.[paragraph break]".
+
+Instead of forgiving or dropping the hermano, say "[italic type]'A él no lo podrás liberar, amado mío. Él fue tu mayor pecado'[roman type], te susurra la musa.".
 
 
 Section 3 - Venganza

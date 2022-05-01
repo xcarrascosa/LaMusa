@@ -31,14 +31,5 @@
             <key>14</key>
             <string>Figures\cultista-bn.jpg</string>
         </dict>
-        <key>Sounds</key>
-        <dict>
-            <key>15</key>
-            <string>Sounds\Unseen-Horrors.ogg</string>
-            <key>16</key>
-            <string>Sounds\horror-atmosphere-background.ogg</string>
-            <key>17</key>
-            <string>Sounds\Ghostrifter-Official-Our-Demise.ogg</string>
-        </dict>
     </dict>
 </plist>
